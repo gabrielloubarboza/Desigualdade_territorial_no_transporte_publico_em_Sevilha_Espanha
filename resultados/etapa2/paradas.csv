@@ -1,0 +1,1056 @@
+stop_id,stop_name,categoria,situacao_ligacao,destino_analise,situacao_ide,n_origens_400m,pob_estimada_400m
+100,Avda. El Greco (Ambulatorio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,4765.924827431839
+1000,Santander (Tomas de Ibarra),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1255.5799846380507
+1001,Jesus del Gran Poder (Sta. Barbara),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,5752.998329970218
+1002,Aeropuerto de Sevilla (Salidas),onibus_com_servico_no_dia,ligada_apenas_componente_isolado,True,mesmo_id_coerente,0,0.0
+1003,Luna (Paseo de Hiperion),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,116.02288061314505
+1004,Ronda Padre Pio (Castillo Guardas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,1862.7096306050285
+1007,Ctra. Su Eminencia (Castillo de Marchenilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,1880.6439293011479
+1009,Avda.Roma (Palacio de San Telmo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,173.0957060553778
+101,Solea Av. (El Greco),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4129.604284111106
+1010,Estrecho de Magallanes,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4366.6303624143275
+1011,Av.Jerez (Ntra. Sra. del Pilar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2436.5233557520455
+1012,Av. Jerez (P.I. Pineda),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1455.0
+1013,J.A. Cavestany (Juan de Vera),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,6115.836294048839
+1014,J.A.Cavestany (Enrique Marco Dorta),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4815.223782485515
+1015,Japon (Sendai),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5401.020957911777
+1016,Agricultores (Garrochistas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2724.1433531774146
+1017,Estrella Canopus (Estrella Altair),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,7478.529957781711
+1018, estrella Canopus (Estrella Albireo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,2626.567428334113
+1019,Juan Pablo Ii  Av. (Alfonso de Orleans),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,867.2993074910396
+102,Solea Av. (Éfeso),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4234.909022564465
+1021,Avda. La Aeronautica (Flora Tristan),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5050.867661075912
+1025,Avenida La Aeronautica (Remo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4257.824239225107
+1026,Estrella Canopus (Estrella Adara),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4803.6296758424
+1028,Indonesia (Bangladesh),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,3963.933538471888
+1029,Las Villas de Cuba  Av. (Macedonia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2777.760344268714
+103,Jerusalén (Junta Municipal de Distrito),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,1976.4213770114327
+1036,Estacion Prado A1,onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+1037,Estacion Prado A2,onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+1038,Estacion Prado A3,onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+1039,Estacion Prado A4,onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+104,Damasco,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,1934.1496774396549
+1040,Estacion Prado A5,onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+1041,Estacion Prado A6,onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+1042,Estacion Prado A7,onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+1043,Estacion Prado A8,onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+1044,Medina y Galnares (C.D.San Jeronimo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1443.3231851515195
+1045,Rafael Beca Mateos (Asociacion),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,10.0
+1046,Av. La Prensa,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,12.0
+1047,Economia,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+1048,Fernandez Murube  Av.,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,0.3900067372498324
+105,Auxiliar Kansas City (Macedonia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3661.556146585034
+1064,Faustino Gutierrez-Al(Periodista Eduardo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6286.931261237965
+1065,Faustino Gutierrez-Al(Leonardo del Castil,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4081.4575367003117
+1066,Periodista Juan Tribuna,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,7057.646030804728
+1067,Faustino Gutierrez-Al(Period.E.Chinarro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,6179.041796432702
+1068,La Acogida  Plaza,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1734.8506411861283
+1069,Fernando Zobel,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1714.4669505571092
+107,Carretera Carmona (Avenida Llanes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,6710.2503601124845
+1070,Luis Fuente Bejarano,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2211.0054756897102
+1073,La Revoltosa Avda.,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,3608.9955133659682
+1074,Chucena (Posadas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4151.154101526371
+1075,Chucena (La Negrilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1543.5987638010095
+1076,Salobreña (Durcal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,2033.7008572213592
+1077,Ronda Padre Pio,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,2858.5607867674476
+1078,Prado de San Sebastian (Carlos V),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,535.9788261214023
+1079,Japon (Hong-Kong),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,3706.1714380521203
+1080,Lopez Pintado (Caixa Forum),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+1085,Columbretes (Hda. El Rosario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1567.5787735224815
+1086,Columbretes (Hda. El Rosario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,860.163418270109
+1087,Doctor Marañón,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3540.4209376038225
+1088,Arosa (Avda. Parsi),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,1097.1355232563694
+1090,Avda San Lazaro (Playa de Matalascañas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,8411.03903433873
+1091,Avda San Lazaro (Dr. Jaime Marcos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,24,10304.950449805821
+1092,San Lazaro  Av (Dr. Morote),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,25,7754.893258138658
+110,Ronda de Pío XII (Avenida Pino Montano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,25,8096.115108698701
+1101,Marques de Paradas,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4697.703125470132
+1102,Avda de Jerez,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,212.4718860517409
+1103,Av Jerez -C Parana,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,596.0836653914366
+111,Sor Francisca Dorotea (Hdad. Trabajo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,9018.77188759873
+1111,Padre G. Tejero  Av. (Gta. Parias Merry),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,2330.475765725691
+1112,Padre G. Tejero  Av. (Gta. Parias Merry),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_distante,14,2330.475765725691
+1113,José Laguillo (Puerta Osario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_distante,20,6737.064407026376
+1116,Barbados (Maldivas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+1118,Emilia Barral (Escritor Alfonso Grosso),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,3796.2551144273734
+1119,Alcalde Manuel del Valle (Filatelia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4824.51623265973
+1120,Jose Diaz (José Díaz (Macarena Tres Huertas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4446.086195861546
+1123,Paseo Cristóbal Colón (Torre del Oro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1189.4872133864533
+1124,Agricultores (Estrella Betelgeuse),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,5164.691453394395
+1125,Santorini (Saona),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+1126,Santorini (Palaos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+1127,Barbados (Fiyi),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+1128,Barbados (Mauricio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+113,Pedro Romero (Antioquía),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4787.697323884213
+116,Jerusalén (Tesalónica),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,2804.224036490227
+117,Avda. Cruz del Campo (Tordesillas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,3975.7013849857085
+118,Av. Cruz del Campo (Alej. Collantes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,5051.274688936559
+119,Avenida Ciudad Jardín (Juan de Padilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3808.8538963370124
+12,San Jorge (Altozano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,4673.700748228666
+120,Avenida Ciudad Jardín (Piscinas Sevilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3499.8846816042706
+121,Alcalde Juan Fernández (El Juncal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,5572.23672696755
+122,Alcalde Juan Fernández (Claudio Guerín),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5351.878117464922
+123,Alcalde Juan Fernández (El Plantinar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,5066.006558264364
+124,Ntra. Sra. Mercedes (Ramón Carande),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5503.2195509181975
+125,Felipe Ii  (Diego de La Barrera),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4509.61487566583
+126,Felipe Ii  (Valparaiso),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3858.6526500293885
+127,Felipe Ii  (Bogotá),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4912.608695296001
+128,Ntra. Sra. Mercedes (Bueno Monreal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5545.3192472918245
+129,Alcalde Juan Fernández (José Saramago),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,5103.6037909064335
+13,Castilla (Procurador),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3555.0545838172384
+130,Alcalde Juan Fernández (El Plantinar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5351.878117464922
+131,Alcalde Juan Fernández (El Juncal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5946.752473399941
+132,Avenida Ciudad Jardín (Piscinas Sevilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3527.3154852267326
+133,Av. Ciudad Jardín (Card. R. de Castro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2351.8137120657343
+134,Av. Cruz del Campo (Alej. Collantes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5218.982645254193
+135,Av. Cruz del Campo (Av. de Andalucía),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4033.5594910761615
+136,Manuel Ramón Alarcón (Ambulatorio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4524.400472561516
+137,Luis de Morales (Est. Sánchez Pizjuán),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,3701.9099197370133
+138,Pedro Romero (San Ignacio de Loyola),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2851.690568705734
+139,Dr. Laffon Soto (Tesalonica),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,2933.4976848395345
+14,Navarra (Larache),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,3300.2892554246846
+140,Avenida Juan XXIII (Parque Amate),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4258.235513640594
+141,Los Gavilanes (Consultorio Amate),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5445.117162382958
+142,Manuel Ramón Alarcon (Agustín Moreto),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,4700.401283527259
+143,Manuel Ramon Alarco(Ambulatorio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,5415.405595362904
+144,Francisco Buendía (Don Gonzalo de Mena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,1297.9422687227268
+145,Avenida de La Paz (Sierra Morena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,3447.4508763695617
+146,Avenida de La Paz (Barriada La Oliva),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2596.273696886882
+147,Ronda La Oliva (Las Letanías),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3473.2053722267783
+148,Madre de Cristo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4582.269256164083
+149,Luis Ortiz Muñoz (Centro Civico Esqueleto),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2837.1559777746015
+15,Torneo (Baños),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2479.8353865802046
+150,Luis Ortiz Muñoz (Orf. Cayet. González),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3557.3065370223817
+151,Avda. Las Letanías (Estr. de La Mañana),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4085.1250749727205
+152,San José de Calasanz (Ruben Dario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1688.7366820175541
+153,Manuel Siurot (Carretera Su Eminencia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,1937.5601629501011
+154,Manuel Siurot (Hospital V.Rocio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1224.9312579105967
+156,Reina Mercedes (Escuela Ing. Edificación),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1999.1040332632192
+157,Reina Mercedes (E.S.I. Informática),onibus_com_servico_no_dia,ligada_componente_principal,True,so_gtfs,10,1715.9467083256366
+158,Glorieta Alcalde Parias Merry,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2029.0
+159,Luis de Morales (Luis Montoto),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2706.4400353597935
+16,Torneo (Puerta de San Juan),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1444.148830828787
+160,Avda. Kansas City (Tesalonica),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2587.2409512352383
+161,Avda. Kansas City (Edificio Gran Via),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,3043.168957680278
+164,Avda. Kansas City (Tesalónica),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2196.7095528596765
+165,San José de Calasanz (Bda. El Carmen),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1688.7366820175541
+166,Santiago (Ponce de León),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,5706.266013001099
+167,Avenida de La Paz (Ronda de La Oliva),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2540.8284940085546
+168,Avda. La Paz (Alc. Juan Fernández),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3566.4396038331647
+169,Francisco Buendía (Ciudad Jardín),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2260.6701277400493
+17,Puerta de La Barqueta,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3061.197784899331
+170,Francisco Buendía (Rda. del Tamarguillo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2072.941300397722
+171,Paulo Orosio (Ruperto Chapi),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3415.049147237289
+172,Paulo Orosio (Beatriz de Ahumada),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4873.226540793558
+173,Kansas City  Av. (Gota de Leche),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,265.0440253061414
+174,Avenida Juan XXIII (Parque Amate),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4581.752951061584
+175,Esperanza de Triana (Trabajo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,25,7347.045308969179
+176,Alvar Núñez (Rubén Dario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4942.004460388572
+177,Alvar Núñez (Lorenzo Leal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,7150.803059072967
+178,Alvar Núñez (López de Gomara),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5481.79017396048
+179,Ctra. Pino Montano (Cortijo Las Monjas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,2.0
+18,Resolana (Feria),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4495.575298898491
+180,López de Gomara (Instituto Bécquer),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,5898.146122994926
+181,República Argentina (Virgen de África),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,25,7378.551703014633
+182,Avda. República Argentina (Calle Arcos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,8116.549101119253
+183,República Argentina (Plaza de Cuba),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,6309.200827849064
+184,Palos de La Frontera(Teatro Lope de Vega),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,163.0
+185,Av. Carlos V (Juzgados),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,435.5070996341619
+186,Antioquia (Gabriel Blanco),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2662.52445606929
+187,Av. San Fco. Javier (Espinosa y Carcel),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,2669.114546464056
+188,Av. San Fco. Javier (Edif. Sevilla 2),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4460.780853108876
+189,Eduardo Dato (Estadio Sánchez Pizjuán),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4062.1723241132077
+19,Parlamento de Andalucía (Macarena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5417.345572869479
+190,Eduardo Dato (San Juan de Dios),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,5623.71878849085
+191,Eduardo Dato (San Juan de Dios),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5030.923868214189
+192,Eduardo Dato (Estadio Sánchez Pizjuan),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,5135.763002560678
+193,Av. San Fco. Javier (Camilo José Cela),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4351.099093788416
+194,Av. San Fco. Javier (Av. Ramón y Cajal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,1706.7931689044528
+195,Ramón y Cajal (Facultad Empresariales),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,2178.0786676350745
+196,Palos de La Frontera (Puerta Jerez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,377.44247860688574
+197,República Argentina (Pagés del Corro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,6582.0870049152345
+198,Rep. Argentina (Virgen de Villadiego),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,7562.81426337539
+199,República Argentina (Virgen de Fátima),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,26,7765.842970764781
+2,Menéndez Pelayo (Puerta Carmona),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,4388.0417218573875
+20,Ronda de Capuchinos (San Julián),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4183.847882401079
+200,López de Gomara (Instituto Bécquer),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,6007.795780438388
+201,Juan Díaz de Solís,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,7201.098015473373
+202,Virgen de Luján (Virgen del Águila),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,26,8640.054138550888
+203,Virgen de Luján (Juan Ramón Jiménez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,28,9874.138128414326
+204,Guadalupe (Recaredo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,6346.652291443267
+205,Paseo Las delicias (Pab. de Guatemala),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,182.33109788859656
+206,Paseo Las delicias (Glorieta Méjico),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,314.9153200367193
+207,Sor Gregoria Santa Teresa,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1280.1623460613582
+208,Sor Gregoria Santa Teresa,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1287.0947577027928
+209,Paseo Las delicias (Glorieta Méjico),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,314.9153200367193
+21,Ronda de Capuchinos (La Trinidad),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3332.0405552870566
+210,Paseo Las delicias (Glta. Marineros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+211,Virgen de Luján (Sebastián Elcano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5977.293949529411
+212,Manuel Ramón Alarcón (Luis Montoto),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,5876.25523393667
+213,Virgen de Luján (Juan Ramón Jiménez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,29,10708.627479823735
+214,Virgen de Luján (Virgen de África),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,25,8171.690977697953
+215,Ctra. Pino Montano (Finca Encarnación),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+216,Alcalde Luis Uruñuela (Puerta Este),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3469.7883947392384
+217,Avda. Sánchez Pizjuán (Macarena Cinco),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3468.22633131685
+219,Los Romeros (Avenida San Lazaro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,9726.029805101249
+22,María Auxiliadora (Puerta Osario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6832.190137344592
+220,San Lazaro  Av (Dr. Jaime Marcos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,24,9792.615936103237
+221,Avda. Sánchez Pizjuán (Las Golondrinas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6137.137168776764
+222,Avenida Emilio Lemos (Centro Comercial),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,652.1997672173397
+223,Jerez Av.(Glorieta Letonia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,3645.7783416302054
+224,San Vicente de Paúl (Ciudad Real),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3496.456992194978
+226,Hytasa (Plg. Ind. Su Eminencia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4017.161721006514
+227,Alc. Manuel del Valle (Centro Salud),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5541.736060631625
+228,Concej. Jiménez Becerril (Gta. Olimpica),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,328.3459217126914
+229,Avenida Coria (San Martín de Porres),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4839.785829214996
+23,Ronda de Capuchinos (Avenida Miraflores),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4002.2447624869706
+230,San Jacinto (Peñaflor),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,6883.617020325695
+231,San Jacinto (Pagés del Corro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4522.85498226909
+232,José Galán Merino (Alcalá del Rio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,3650.22354131104
+234,Amor de Dios (Plaza Europa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5804.204613461512
+235,Feria (Cruz Verde),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5766.677356773381
+236,Feria (Relator),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,6187.642501947556
+237,Feria (Resolana),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4431.570124901448
+24,Ronda de Capuchinos (León XIII),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4639.447175256486
+240,Medina y Galnares (Ambulatorio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2793.1361105524716
+241,Medina y Galnares (Carpa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3230.441561865447
+242,Medina y Galnares (Cataluña),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,1948.7564311932451
+243,Doctor Fedriani (Cementerio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,680.7276754855634
+245,Maestranza Aerea Av.(Barberan y Collar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,375.0
+246,Muñoz León (Puerta de Córdoba),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,6100.223856371754
+247,Ponce de León,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4727.7015043774745
+249,Don Fadrique (Macarena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3931.383685123534
+25,Muñoz León (Sánchez Perrier),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,6633.056656965755
+250,Avda. Parsi (Las Melias),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,1086.0
+254,Niculoso Pisano (Ronda de Tejares),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,3841.3449934275372
+255,Ronda de Los Tejares (Turruñuelo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,4307.06811638937
+256,Canalejas (Gravina),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,5585.063623889621
+257,C. Jorge de Montemayor,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,24,6471.5273309048025
+258,Esparteros (Charolistas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4891.547974509191
+259,Sembradores (Parque Bomberos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5797.430367684099
+26,Parlamento de Andalucía (Macarena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4284.991039081567
+260,Agricultores (Camino de Los Toros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,6338.279211716335
+261,Camino de Los Toros (Mar Adriático),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5210.445395551851
+262,Cortijo Las Casillas (Mar Mediterraneo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4150.165151914581
+263,Avenida Pino Montano (Ronda Norte),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5284.6654422279025
+264,Avenida Pino Montano (San Diego),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3474.0334364930304
+265,Avenida Pino Montano (Sebastián Llano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5094.168116207419
+266,Avda. Pino Montano (Sta. Justa y Rufina),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,6623.8756787291095
+267,Manuel Blasco Garzón,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,7216.660778016606
+268,Avenida Pino Montano (Ronda de Pío XII),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,7037.844087088801
+269,Avda. Pino Montano (San Felipe Neri),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6413.808145620317
+27,Resolana (Barqueta),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4018.9078695642083
+270,Alcalde Manuel del Valle (San Diego),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5834.401914363116
+271,Avenida Pino Montano (Los Carteros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,5099.486363906359
+272,Avenida Pino Montano (San Diego),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4374.333370046383
+273,Avenida Pino Montano (Las Almenas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5418.832372485891
+274,Cortijo Las Casillas (C. de Los Toros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2947.9152300806004
+275,Dr. Leal Castaños (Hospital V. Macarena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,7599.129842489715
+276,Carretera Carmona (Pedro de Mena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,7813.7559632561415
+277,Carretera Carmona (Higuera de La Sierra),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,24,8243.17332054047
+278,Ctra.A-3108 (Centro Insercion Social),onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+279,Arroyo (Pinzones),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4723.75806444524
+280,Arroyo (José Laguillo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,5949.538371406482
+281,Gonzalo Bilbao (Puerta Osario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6588.955699250234
+282,María Auxiliadora (Dr. Relimpio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5105.697972976757
+283,Arroyo (Urquiza),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,5527.936707646314
+284,Arroyo (Pinzones),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5178.79818995285
+285,San Luis (Inocentes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4711.288966752454
+286,Carretera Carmona (Higuera de La Sierra),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,7025.139450291903
+287,Carretera Carmona (Pedro de Mena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,8201.927363853276
+288,Carretera Carmona (Centro de Salud),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4312.208504207518
+289,Aux. Autovia Madrid (Hipermercado),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,151.80689953188053
+29,Torneo (Puerta de San Juan),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,3036.8251204695835
+290,Garrochistas (Talabarteros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,3110.676892436078
+291,Luis Montoto (Marqués de Nervión),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,4757.08455540121
+292,Luis Montoto (Kansas City),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3489.8765888355424
+293,Kansas City (Céfiro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2914.3470340470467
+294,Aux. Autovia Madrid (Jardines del Edén),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,669.5943612380985
+295,Eduardo Dato (Colegio Porta Coeli),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,2884.248993661217
+296,Eduardo Dato (San Bernardo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3786.318967995933
+297,Menéndez Pelayo (Jardines de Murillo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,2770.214134188038
+298,Cortijo de Las Casillas,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,4003.8194415927182
+299,Emilia Barral (Plaza Rey Aurelio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4825.949751711293
+3,Menéndez Pelayo (Puerta de La Carne),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,4420.406545559649
+30,Torneo (Baños),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2285.4969477928144
+300,Carretera Carmona (Centro de Salud),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3500.2150044652753
+3000,Prado San Sebastián,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+3001,Puerta Jerez,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+3005,Archivo de Indias,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+3006,Puerta Jerez,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+3007,Prado San Sebastián,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+3008,San Bernardo,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+3009,San Bernardo,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+301,Eduardo Dato (San Bernardo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,3576.861882910263
+3010,San Francisco Javier,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+3011,Eduardo Dato,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+3012,Luis de Morales,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+3014,Eduardo Dato,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+3015,San Francisco Javier,somente_bonde,nao_avaliada,False,mesmo_id_coerente,0,0.0
+302,Eduardo Dato (Colegio Porta Coeli),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2694.7970582868625
+303,Trabaj. Inmigrantes (Mar Caspio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,10738.170269264816
+304,Seneca  Av. (Ciudad de Alfafar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1714.263995381698
+305,Luis Montoto (Luis de Morales),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3306.367093101095
+306,Ciudad de Liria (Elda),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,3350.2213816432077
+307,Las O.N.G. (Plaza Gomila),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4786.197782948829
+308,Ciudad de Paterna (Ambulatorio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2920.9549021037637
+309,Luis Montoto (Marqués de Nervión),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4002.715198132099
+31,Santiago (Pza J. de La Redención),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,4583.761924255009
+310,Escritor Alfonso Grosso (Carmen Conde),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4180.117899978986
+311,Amor (Edificios Atlántico),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,5019.51154483113
+312,Amor (Santa Isabel),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,2627.7384698249157
+313,Amor (Satsumas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,4540.097999413825
+314,Carlos Marx (Edificios Cantábrico),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3046.4871869370118
+315,Federico Mayo Gayarre (La Candelaria),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,6269.90949886367
+316,Federico Mayo Gayarre (Rda. Tamarguillo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6676.585372791293
+317,Federico Mayo Gayarre (Gibraltar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5764.483252262482
+318,Federico Mayo Gayarre (Pedro de Madrid),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,6208.055756527507
+319,Avenida Emilio Lemos (Vietnam),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,5245.324608260963
+32,Teniente Borges (Plaza Duque),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3576.067960892158
+320,Aguila Perdicera (Centro Salud),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2140.2034180820506
+321,Ctra. Pino Montano (Cortijo Las Monjas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,2.0
+323,Águila Perdicera (Bda. La Música),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3865.222842889512
+324,Los Claveles (Doña Francisquita),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,6531.392903281193
+325,Doña Francisquita (La Calesera),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,7097.417094088654
+326,La Calesera (La Montería),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,6325.060524871384
+327,La Montería (Mercado),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,5059.310670752865
+328,Ciudad de Chiva (Ciudad de Liria),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4821.600211550612
+33,Clara de Jesús Montero (Procurador),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,6648.167853888949
+330,Luis Montoto (Cefiro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4719.9443985589
+331,Luis Montoto (San Benito),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5694.393034644542
+332,Alc.Manuel del Valle Av. (Av.Pino Montano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,6176.245643582054
+333,Amador de Los Ríos (Júpiter),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,5932.764728128876
+334,Recaredo (Puerta Osario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,6384.774728372543
+335,Alameda de Hercules,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,6291.561113337249
+336,Luis Montoto (Manuel Halcon),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5378.782000969284
+337,Cardenal Cisneros (Abad Gordillo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4917.423328894202
+338,La Calesera (Doña Francisquita),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,7601.874743467017
+339,Ciudad de Alfafar (Ciudad de Oliva),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,3825.7946532357205
+34,Esperanza de Triana (Republica Argentina),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,26,8856.188044300485
+340,Aux. Autovía Madrid (Ctra. Aerop. Viejo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,155.65029000459842
+341,Ramón y Cajal (Marqués de Nervión),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3579.9991871185366
+342,Ramón y Cajal (San Francisco Javier),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,4004.753029596034
+343,Av. Emilio Lemos (Period. E. Chinarro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,8730.819224408075
+344,Ramón y Cajal (San Francisco Javier),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,3850.530552381179
+345,Ramón y Cajal (Urbión),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5470.919645603911
+346,Las Leandras,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,6220.847448155707
+347,Avenida de Hytasa (Galicia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3235.9078571641116
+348,Avenida de Hytasa (Hernán Ruiz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2895.906171167102
+349,Avenida de Hytasa (Aragón),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3682.097407901532
+350,Ramón y Cajal (Conservatorio Música),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3906.467157093193
+351,Águila Perdicera (Centro Salud),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2945.9324851332412
+352,Ramón y Cajal (Conservatorio Música),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3906.467157093193
+353,Canal (Afán de Ribera),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,2725.1107562652182
+354,Afán de Ribera (Maestro Falla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,5209.01113663431
+355,Afán de Ribera (Galicia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,5782.554150891738
+356,Afán de Ribera (Juan Talavera Heredia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,5229.987805532944
+357,Avenida de Hytasa (Illescas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4151.659456126598
+359,Alc.Manuel del Valle Av. (Av.Pino Montano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5508.918686511927
+360,Ntra. Sra. Mercedes (Diez Mandamientos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4715.855640230182
+361,Avda. La Paz (Los Diez Mandamientos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,3940.7126695723937
+362,Avenida Emilio Lemos (Sendai),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,7899.486434689225
+363,Medina y Galnares (frt. Centro Salud),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,700.0953247967789
+364,Avda. Reino Unido (Glta. Letonia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4140.273510913783
+365,Puebla del Rio,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,3772.772375166264
+366,Diego Mtnez Barrio  Av.(Jose Saramago),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3277.9970443376615
+367,Poeta Manuel Benítez (Avda. de La Paz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4400.144819485493
+368,Alameda de Hercules,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5146.8677576477085
+369,Poeta Manuel Benítez (Rda. La Oliva),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,3263.233924809642
+37,Sebastián Elcano (Virgen de Luján),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5676.433724884778
+370,Aux. Autovia Madrid (Hipermercado),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,50.65607200975101
+371,Avenida Emilio Lemos (Indonesia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,6738.654078506107
+372,Kansas City  Av. (P.I. Calonge),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,213.57394977585375
+373,Orfebre Cayetano González,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2816.6134440649394
+374,Rda. La Oliva (Orf. Cayet. González),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2995.8823979943013
+375,Avda. Kansas City (El Greco),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3797.4352397452485
+376,Avda. Kansas City (Efeso),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,1566.0121974642716
+377,Poeta Benítez Carrasco (Pacífico),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2961.8931666698963
+378,Valdelarco (Guadalcanal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5989.5751292520345
+379,Avenida de Andalucía (Tussam),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2455.5300104828543
+38,Virgen de Luján (Sebastián Elcano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,6570.009474687059
+380,Av. Emilio Lemos (Period. J. Tribuna),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,6646.46364585591
+381,Avenida de Andalucía (Los Pájaros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3859.370426883589
+382,Puebla del Rio (Las Navas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,3352.6855398284847
+383,Puebla del Rio,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4541.69898663261
+384,Avenida de Andalucía (Satsumas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1872.096198541003
+385,San José de Palmete (Centro Transportes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,444.4222295556148
+386,Baena,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4569.986085226287
+387,José Sebast. Bandarán (Luis Ortiz Muñoz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3494.0478538103184
+388,Avenida de Andalucía (Tussam),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,778.6371020731343
+389,Centro Penitenciario,onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+39,Glorieta Marineros Voluntarios,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,182.33109788859656
+390,Avda. Andalucía (Resid. Sta. Isabel),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1719.0656088791402
+391,Dra. Navarro Rodríguez,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4295.808903139179
+392,Coruña (Avda. Coria),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4015.0012555734493
+393,Ctra. de Brenes (C/ San Cayetano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,137.13836862027563
+394,Evangelista (Condes de Bustillo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,5576.926584101614
+395,Ctra. El Pítamo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+396,López de Gomara (San Martín de Porres),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,6094.622128547359
+397,Hytasa (Plaza Alegre),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3682.097407901532
+398,Hytasa  (Salvador Távora),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2365.8678839077816
+399,Manuel Villalobos,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,7644.134676530475
+4,Menéndez Pelayo (Juzgados),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1189.7781281438438
+40,Avenida María Luisa (Teatro Lope de Vega),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,0.13681804710084766
+400,Leon XIII,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5872.054177964081
+4001,Kansas City (El Greco),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3517.4470490484205
+4002,Kansas City (Palacio de deportes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1691.4822382677846
+4003,Efeso (San Pablo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3514.17165611821
+4004,Montes Sierra (Los Arcos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1457.8842003323682
+4005,Montes Sierra (Santa Clara),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,1101.0
+4006,Montes Sierra (SE-30),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,738.7237014221655
+4007,Luis Uruñuela (Las Gondolas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3222.3435956701487
+4008,Luis Uruñuela (Apeadero Cercanias),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1267.434888814411
+4009,Palacio de Congresos,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,62.56388255071134
+401,Luis de Morales (Est.Sanchez Pizjuan),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4509.340633990295
+4010,Avda Las Ciencias (Emilio Lemos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4701.238953531184
+4011,Avda. Las Ciencias (Ulises),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6420.6323444593
+4012,Avenida La Aeronautica,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,4166.781996566417
+4013,Avda. Pero Mingo (Torreblanca),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2847.3498620622086
+4014,Avenida La Aeronautica,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,4166.781996566417
+4015,Avda. Las Ciencias (Flor de Salvia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6429.556231500348
+4016,Avda Las Ciencias (Emilio Lemos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4684.29329682791
+4017,Palacio de Congresos,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,401.0572911652522
+4018,Luis Uruñuela (Apeadero),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1267.434888814411
+4019,Luis Uruñuela (Las Gondolas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4341.051683973603
+402,Diego Mtnez Barrio  Av.(Jose Saramago),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3504.988731439028
+4020,Montes Sierra (SE-30),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,679.7237014221655
+4021,Montes Sierra (Santa Clara),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,1042.0
+4022,Ada (Los Arcos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1199.631676670014
+4023,Efeso (San Pablo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3656.011936666706
+4024,Kansas City (Palacio de deportes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1743.0432553172259
+4025,Kansas City (El Greco),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3443.89400775603
+4026,Jose Laguillo (Santa Justa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2534.9939252358363
+4027,Amador de Los Rios,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,7033.3636799479955
+4028,Plaza Ponce de Leon,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,5112.285598272732
+4029,Imagen (Plaza Encarnacion),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,4261.608231372238
+403,Carabela Santa María,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,1002.8584384849644
+4030,Plaza del Duque,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,2806.570310764796
+4031,Imagen (Plaza Encarnacion),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,4266.998043832677
+4032,Plaza Ponce de Leon,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,4961.585502293524
+4033,Puerta Osario (Jose Laguillo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,6641.161979264937
+4034,Jose Laguillo (Santa Justa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2534.9939252358363
+404,Juan Ponce de León,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,268.01555222087165
+405,Rodrigo de Escobedo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1095.4528275593993
+406,Ópera Carmen,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,943.9009632933966
+407,Fidelio (Carabela La Niña),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,835.4812476545754
+408,Aux. A-92 (Virgen de Las Aguas),onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+409,Avda. Andalucía (Resid. Sta. Isabel),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1719.0656088791402
+410,Avda. Seneca (Rodriguez Castillejo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2250.303883414395
+411,Auxiliar Kansas City (El Greco),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3981.300321523474
+412,Avenida de La Plata,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5346.312442130812
+413,Ronda Padre Pío,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,2858.5607867674476
+414,Salobreña,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,992.7029099091209
+415,Ronda Doctora Este --> Cercanías,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1359.0
+416,Afecto (Franqueza),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2970.1041807901906
+417,Afecto (Comprensión),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,1614.7409737912433
+418,Indulgencia,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,1393.334695555117
+419,San Jose de Palmete (Pino Siberia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1784.7545267024022
+42,Menéndez Pelayo (Puerta de La Carne),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4346.90802263871
+420,Chucena (La Negrilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1583.1856372743107
+421,Chucena (Posadas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3197.9993696111424
+422,Ronda Doctora Oeste (Mairena del Alcor),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,2858.5607867674476
+423,Avenida de La Plata,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5346.312442130812
+424,Guadalbullon (Pedro Salvador),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,2095.799305784032
+425,Guadalbullon (Instituto Heliópolis),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2467.513299057788
+426,Honestidad (Comprensión),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,1597.0080023595403
+427,La Palmera Av.(Marques Luca de Tena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,1228.0071266613918
+428,Ronda Doctora Oeste (Instituto Leonardo Da Vinci),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1758.6119429076712
+429,Torvizcón (Polideportivo La Ranilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1577.5276117234255
+43,Recaredo (Puerta Carmona),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,7447.590275807983
+430,Glorieta Plus Ultra,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,1710.3741148550346
+431,Honestidad (Solidaridad),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1961.0816811752818
+432,Guadalbullon (Instituto Heliópolis),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2472.478985791645
+433,Alc. Luis Uruñuela (Palacio Congresos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,23.690584030719286
+434,Avda. Maestranza Aerea (Airbus),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,677.0
+435,Afán (Residencia Tercera Edad),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2331.2918930206524
+436,Guadalbullon (Pedro Salvador),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,2095.799305784032
+437,Av. Maestranza Aerea (Barberán y Collar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,425.0
+438,Avda. Maestranza Aerea(Comisaria Policia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,382.0
+439,Ali Al-Gomari (Barriada Pineda),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1122.5481537395947
+44,Comunidad Extremeña,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,8024.066903202961
+440,Hytasa  (Herramientas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2973.423759062442
+442,Astronomia (Quimica),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+443,Avda. Maestranza Aerea (Ctra La Esclusa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,865.0
+444,Avda. Mujer Trabajadora (Casa Cuna),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4174.383254966568
+445,Avda. Mujer Trabajadora (Ajimez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3768.558263554704
+446,Dra. Navarro Rodriguez,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4295.808903139179
+447,Flor de Gitanilla,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,5891.024284220626
+448,Avda. Mujer Trabajadora (Casa Cuna),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4649.006147982184
+449,Avda. Andalucia (Los Pajaritos),onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+45,Avenida La Barzola (Bahía de Cádiz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4325.497533518632
+450,Luis Montoto (Luis de Morales),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3544.7142426318146
+451,Carlos Marx (Parque Amate),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2418.1734001622626
+452,José M. Javierre (Los Arcos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2679.901303263099
+453,Montes Sierra (Rafael Beca Mateos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+454,Montes Sierra (SE-30),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,393.87549219438694
+455,Alcalde Luis Uruñuela (Las Góndolas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4320.899893201382
+456,Alcalde Luis Uruñuela (Las Góndolas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3022.73890107219
+458,Montes Sierra (SE-30),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,738.7237014221655
+459,Montes Sierra (Rafael Beca Mateos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,82.38540571062387
+46,Av. La Barzola (Pza. A. Martín Caro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,7782.327393072218
+460,José M. Javierre (Los Arcos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1274.1955371439944
+461,María Auxiliadora (Puerta Osario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3524.5805664058084
+462,Kansas City (Huerta Santa Teresa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3528.3515336561336
+463,Avenida La Revoltosa,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,3657.528141750208
+464,Av. La Aeronáutica (Andal. Residencial),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4257.824239225107
+465,Andalucía Residencial,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,2683.097281803293
+466,La Calesera,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,6329.527896487145
+467,Av. Parque Amate (Rosaleda),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,6437.814001643705
+468,Loja (Dilar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2602.471063014066
+469,Avda. Emilio Lemos (San Ildefonso),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,3275.3426210943653
+47,Madreselva,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,24,10101.935503365641
+470,María Auxiliadora (Puerta Osario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5178.106377667287
+471,Avenida de Las Ciencias (Osaka),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3127.487599205161
+472,Menendez Pelayo (Juzgados),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,806.1832466992919
+473,Alcalde Luis Uruñuela (Parque Alcosa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,760.0
+474,Alcalde Luis Uruñuela (Pal. Congresos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,358.2555123705873
+475,Alcalde Luis Uruñuela (Resid. Al Alba),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3836.3533230791063
+476,Aux. A-92 (Pas.Peatonal Torreblanca),onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+477,Paseo de Europa (Bolonia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3838.207877279552
+478,Av. Alemania (Paseo de Europa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,6609.011601602889
+479,María Auxiliadora (Jardines del Valle),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3960.3225788994832
+480,Avda Jose Laguillo (María Auxiliadora),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6668.797413152578
+481,Paseo Colon (Torre del Oro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,663.0224632449365
+482,Autovía de Málaga (La Negrilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,197.41600741370837
+483,La Aeronautica  Av. (Carlinga),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5343.832876651404
+484,Autovía de Málaga (C. de Automovilismo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,110.59132443157806
+485,Autovía de Málaga (C. de Automovilismo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,28.79137095915954
+486,Aux. Autovía Málaga (Plgo. Ind. El Pino),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,173.5928846297761
+488,Estaca de Bares (Creus),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,2097.584329390006
+489,Aux. Autovia Málaga (Alanís),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2224.328467434337
+490,Aux. Autovia Málaga (Torrebermeja),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1478.9222480151748
+491,Aux. Autovia Málaga (Torrecilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,3422.3784132017545
+492,Av. Emilio Lemos (Av. de Las Ciencias),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6150.083946888743
+493,Plaza Las Acacias (Iglesia San Antonio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4089.512436180255
+494,Aux. Autovia Málaga (Drago),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,2515.3747743749773
+495,Prado de San Sebastián,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1398.9985253570524
+496,Torrelaguna (Torremejia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3135.175285827331
+497,Parsi  Avda. (Ibiza),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,1653.911736112369
+498,Torrelaguna (Torrellana),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2606.388922608827
+499,Pero Mingo (Canal Bj. Guadalquivir),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3717.2177971568017
+5,Avda. María Luisa (Teatro Lope de Vega),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,0.13681804710084766
+50,Carmen Vendrell,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1742.4399317437142
+500,Pero Mingo (Isla Mayor),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2536.1180578968037
+501,Avenida del Cid (Consulado de Portugal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,0.13681804710084766
+502,Ulpiano Blanco (Auxiliar N-IV),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,195.65029000459842
+503,Av. Reino Unido (Bergantin),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,1958.1585439246346
+504,Av. Reino Unido (Glta. Av. Jerez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4140.273510913783
+505,Avda. Jerez (Hospital Fremap),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,3297.182013190505
+506,Avda. Jerez (Uralita),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,756.1973241142778
+507,Avda. Jerez (Italica Isabelina),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,2024.942655615362
+508,Avda. Bellavista (Eduardo Miura),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3594.0006336450697
+51,Chipre (Avenida Alemania),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,3734.5480452149855
+510,Américo Vespucio (Helipuerto),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,2.0
+511,Avda. Bellavista (Venta Antequera),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3601.9951884055763
+512,Avda. Bellavista (Asensio y Toledo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4271.4462597968595
+513,Avda. Bellavista (Colegio Lora Tamayo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1449.985202557278
+514,Avda. Bellavista (Nueva Bellavista),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,830.7642806166015
+515,Avda. Bellavista (Nueva Bellavista),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,683.7290677186122
+516,Avenida Bellavista (Miguel Ángel),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2191.265280625582
+517,Avda. Jerez (Uralita),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,739.0910617974442
+519,Américo Vespucio (Helipuerto),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,2.0
+52,San Juan de La Salle (Alc. M. del Valle),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5492.423713763393
+520,María Galiana (Hospital Militar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,816.2452561518222
+521,Av. Jerez (Rotonda Pineda),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1789.0520554257594
+522,Gran Plaza,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4039.074930014129
+523,Las O.N.G. (Plaza Bib-Rambla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,3967.9859543959014
+524,Ciudad de Chiva (Plaza Encina del Rey),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4771.023327531283
+525,Ciudad de Chiva (Marañón Lavín),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4959.08585334136
+526,Gran Plaza,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4465.575547776909
+527,Eduardo Dato (Gran Plaza),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5068.1482460818115
+528,Avda. Jerez (Jardines de Hércules),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2886.207232961622
+529,Avenida Bellavista (Hospital de Valme),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1620.6637048642785
+53,Avenida La Borbolla (Capitanía),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2742.5829627692474
+530,Avda. Carlos V (Prado San Sebastián),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1398.9985253570524
+531,Luis Montoto (Dr. Felipe Martinez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4557.9251413992015
+532,Paseo de Colón (Plaza de Toros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,805.1965198549451
+533,Auxiliar Kansas City (Pol. San Pablo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2046.367712808736
+534,Avda. Bellavista (Edif. Vistabella),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2700.486633429431
+535,Avenida Bellavista (Hospital de Valme),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,376.8813672880967
+536,Paseo de Las delicias (Almirante Lobo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,885.8855537684017
+537,Polígono Store,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1646.5473693945744
+538,Traviesa (Tren Changai),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,3489.681123813098
+54,Avenida La Borbolla (Montevideo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1044.5571564916868
+542,Torremejía,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4402.791207799032
+543,Biología (El Higuerón),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,453.3454906816404
+544,Marques de Paradas,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4653.403820130511
+545,Torneo (Estación Plaza de Armas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,306.1333228826394
+546,Cataluña (Gta. Manuel Rivas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,3346.565586602464
+547,Carretera Su Eminencia (Avenida La Paz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1991.0
+548,Carretera Su Eminencia (Avenida La Paz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2141.5158114307064
+549,Gran Plaza,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4996.961782754117
+55,Avenida La Borbolla (Plaza América),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2961.6986384393535
+550,Avenida Carlos V (Prado San Sebastián),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1398.9985253570524
+551,Alcalá del Río (Marruecos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,4000.237225106921
+553,Relator (Plaza Pumarejo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5952.673147729985
+554,Paseo Colon (Jardines Cristina),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,480.8855537684016
+555,Reyes Catolicos,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4323.25793942955
+556,Marques de Paradas,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4052.685589178688
+557,Jiménez de Quesada (Torre Sevilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,674.8906282038048
+558,Palos de La Frontera (Puerta Jerez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,163.0
+559,Reyes Catolicos,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5168.93069686239
+56,Manuel Siurot (Edificio La Estrella),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,2017.2994633901035
+560,Gta. Oceanográfica (Parque Emp. Torneo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,5.0
+561,Ali Al-Gomari (Barriada Pineda),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1122.5481537395947
+564,Ulpiano Blanco (Bda. Aerop. Viejo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,519.0
+565,Prado San Sebastián (Carlos V),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1398.9985253570524
+566,Manuel Siurot (Rafael Salgado),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2135.1050599771597
+567,Éfeso (Avenida Soleá),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,3633.3969923462473
+568,Ada (Avenida Montes Sierra),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1197.017082380638
+569,Ulpiano Blanco (Barrio Bajo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,134.0
+57,Manuel Siurot (Cardenal Ilundain),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,1755.7400699585014
+570,Ada (Avenida Montes Sierra),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2370.019725562749
+571,La Palmera  Av.(Marques Luca de Tena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,1228.0071266613918
+572,Gran Plaza,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4180.699161649804
+573,Gran Plaza,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3855.762653069962
+574,Manuel Siurot (Francisco Murillo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2135.1050599771597
+576,María Auxiliadora (Dr. Relimpio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4723.61837500738
+577,Plaza Ponce de León,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4727.7015043774745
+578,Camino Cantalobos,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,5249.561638223413
+579,Fray Serafín Madrid,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,25,8619.03549942817
+58,Manuel Siurot (Hospital V.Rocio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1224.9312579105967
+580,Tesalónica (Gitanillo de Triana),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2178.4280066115894
+581,Fray Serafín Madrid (Carmen Díaz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4742.055711477203
+582,Cortijo de Las Casillas (Esparteros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,3558.3423985842715
+583,Doña Francisquita (Avda. La Calesera),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,6618.112384767152
+584,Profesor Tierno Galvan,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,5100.645520344188
+585,San Diego (Avda. Pino Montano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,5121.995164723336
+586,Los Claveles (La Rosaleda).,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,7355.305042795913
+587,Republica de China Av(Birmania),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3302.2983180283136
+588,Termodinamica (Glorieta Miranda),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1791.128744983194
+589,Luis Fuente Bejarano (Alcalde Luis Uruñuela),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3365.998767802679
+59,Manuel Siurot (Carretera Su Eminencia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,1937.5601629501011
+590,Dr. Laffon Soto (Pabellon deportes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1463.7043148427124
+591,Menéndez Pelayo (Diputación),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,2862.0012807743256
+593,Las Leandras (Los Gavilanes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,7339.783304923291
+594,Cayetano González (Sebastián Bandarán),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3130.1900925463265
+595,Rda. de La Oliva (Orf. Cayet. Gonzalez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,3954.1479135700183
+596,Palmas Altas (C. Comercial),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+597,Biologia (frente El Higueron),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,453.3454906816404
+598,Av. Andalucía (Rda. del Tamarguillo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2386.919620713037
+599,San Juan de La Cruz (Avenida Juan XXIII),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4674.132778946105
+6,Palmas Altas,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+60,Padre G. Tejero (Est. Benito Villamarín),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,889.6244796589963
+600,San Juan de La Cruz (Plaza Las Moradas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4760.966082019964
+601,San Juan de La Cruz (Ruperto Chapí),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3250.5018853099396
+602,Canal (Parroco Antonio Gomez Villalobos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4735.355654653654
+603,Secoya (Palacio de Congresos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,822.0077243296998
+604,Secoya (Parque Alcosa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,684.1385531771846
+605,Ciudad de Chiva (Ciudad de Gandía),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3203.546647678871
+606,Vía Flavia (Avda. Parsi),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1562.4960781309705
+607,San José de Palmete (Correos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,340.0
+608,José Laguillo (Puerta Osario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5633.370129035634
+609,Luis Ortiz Muñoz (Factoria Cultural),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,2359.242906661679
+61,Reina Mercedes (Gta. Alc. Parias Merry),onibus_com_servico_no_dia,ligada_componente_principal,True,so_gtfs,13,2240.3492282538436
+610,Médicos Sin Fronteras (Dra. Navarro R.),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4673.733632423645
+611,Américo Vespucio (F. de Comunicación),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+612,Almirante Topete (Ntra.Sra.Mercedes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,5203.4584606837
+613,Universidad Pablo Olavide (Biblioteca),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+614,José Sebas. Bandarán (Cayetano González),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2645.493232495622
+615,Navio Argos,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,7564.084771187512
+616,Avda. Andalucía (Rosaleda),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,1714.0358595816283
+617,Avenida Alemania (Suecia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,5974.671603949191
+618,Avda. Dinamarca (Sadus),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1132.2373817418718
+619,Ronda de Triana (Manuel Arellano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,8511.807182432081
+62,Reina Mercedes (E.S.I. Informática),onibus_com_servico_no_dia,ligada_componente_principal,True,so_gtfs,9,1693.4280511609163
+620,Flor de Gitanilla (Flor de Retama),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4321.649886352311
+621,Alemania  Av. (Berlin),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4423.515135026881
+622,Galaxia,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,25,10333.059884801149
+623,Ctra.Mairena (Pol.Indust.Torreblanca),onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+624,Blas Infante (Rubén Darío),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,959.0239796219521
+625,Alfredo Kraus,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,461.0397882801652
+626,Blas Infante (Alfredo Kraus),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,450.61974657493204
+627,Blas Infante (Santa Fé),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4160.711739286386
+628,Parsi 6 (Parsi2),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+629,Blas Infante (Jefatura de Policía),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4160.711739286386
+63,Reina Mercedes (Escuela de Arquitectura),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,1392.6507717461561
+630,San Pablo (Zaragoza),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4966.376837635954
+631,Juan Bautista Muñoz (Leonardo Da Vinci),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+632,Américo Vespucio (F. de Comunicación),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+633,Carabela La Niña (Conde de Osborne),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,604.8668772238962
+634,Avda. Villas de Cuba (Elisa Ruiz Romero),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2837.9324406981386
+635,Tesalónica (Plaza Curro Cuchares),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3061.437126330005
+636,Auxiliar Kansas City (Efeso),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1743.0432553172259
+637,Médicos Sin Fronteras (Mercado Sv. Este),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4701.7348933447165
+638,Alvar Núñez Cab. Vaca (Fray M. de Niza),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,819.7690197764994
+639,Ctra.Mairena (Pol.Indust.Torreblanca),onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+64,Manuel Siurot (Gustavo Gallardo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1996.3294344775368
+640,Fidelio (Ópera Carmen),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,966.356970484884
+641,Montes Sierra (Avenida La Prensa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1445.7986928842963
+642,Montes Sierra (Santa Clara de Cuba),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,1042.0
+643,Montes Sierra (Santa Clara de Cuba),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,1042.0
+644,Montes Sierra (Tesalónica),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1147.1858794503974
+645,Estrella Canopus(Estrella Haris),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,5677.871611758686
+646,Estrella Haris (Agricultores),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,3560.0044013549527
+647,Ulpiano Blanco (Aerop. Viejo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,517.0
+648,Garrochistas (Salineros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3106.978885280672
+649,Alvar Núñez Cabeza de Vaca (Antioquía),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2615.33459607527
+65,Manuel Siurot (Edificio La Estrella),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,1093.2979012688247
+650,Aeropuerto de Sevilla (Llegadas),onibus_com_servico_no_dia,ligada_apenas_componente_isolado,True,mesmo_id_coerente,0,0.0
+651,Padre Sebastián Bandarán (Centro Cívico),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3413.7573588374526
+652,José Sebas. Bandarán (Cayetano González),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2343.7726618122333
+653,Estrella deneb (Estrella Vega),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1330.384086307227
+654,Marqués Luca de Tena (Hospital V.Rocio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1672.3352235613863
+655,Ciudad de Chiva (Ciudad de Alfafar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3286.0111347850598
+656,María Auxiliadora (Laborat. Municipal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5178.106377667287
+657,Secoya (Parque Alcosa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,797.8660158882763
+658,Secoya (Palacio de Congresos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1011.8391821947686
+659,Real de La Jara (Ambulatorio Plg. Norte),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,24,6522.751646548668
+66,Avenida La Borbolla  (Felipe Ii),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2961.6986384393535
+660,Paseo de delicias (Pabellón de Uruguay),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,1.9770196621680953
+661,Puerto del Escudo (Puerto de Zegri),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6741.852560622133
+662,Candelilla (Candelario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,25,8604.057744973707
+663,Zorzal (Tórtola),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,5534.1598119607515
+664,Candelilla (Celestino Lopez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,26,8617.816621226018
+665,Rda. Tamarguillo (Alejandro Collantes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2741.1669351591922
+667,Alcalde Luis Uruñuela (Jardines Edén),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1617.0112416443549
+668,Alcalde Luis Uruñuela (Jardines Edén),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1267.434888814411
+669,Ctra. de Brenes (San Cayetano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,137.13836862027563
+67,Avenida La Borbolla (Montevideo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1353.5990888187691
+670,Carretera Carmona (Parque Atlántico),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4323.177042999104
+671,Juan Bautista Muñoz (Estadio Olimpico),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+672,María Auxiliadora (Dr. Relimpio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5105.697972976757
+673,Ctra. Valdezorras (Centro Miraflores),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+674,Ctra. Valdezorras (Aerop. Viejo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,15.0
+675,Ulpiano Blanco (Bda. Aerop. Viejo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,459.0
+676,Vereda Poco Aceite (Venta Vargas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,116.14716963509119
+677,Halcón (Mofeta),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1515.0
+678,Vereda Poco Aceite (Venta Vargas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,526.4542412545311
+679,Barriada El Gordillo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,28.880925370354966
+68,Avda. La Borbolla (Dr. Pedro de Castro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3204.412878549556
+680,Ctra. El Gordillo (Cortijo Cordobés),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+681,Ctra. Valdezorras (Aerop. Viejo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,15.0
+682,Centro Miraflores,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,46.0
+683,Ctra. Valdezorras (Centro Miraflores),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+684,Doctor Fedriani (Cementerio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,943.9401074235257
+685,Corral de Los Olmos,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4072.5876562746957
+687,Padre G. Tejero (Est. Benito Villamarín),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,832.9414238726632
+688,Torneo (Estacion Plaza de Armas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,3269.569017813762
+689,Rda. Tamarguillo (Alejandro Collantes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2741.1669351591922
+69,El Cid Av. (Rectorado),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,0.13681804710084766
+690,Rda. Tamarguillo (Federico Mayo Gayarre),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4958.142093209316
+691,Rda. Tamarguillo (Marqués de Pickman),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,4980.019212102602
+692,Rda. Tamarguillo (Plaza Ruperto Chapí),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3588.4185038659757
+693,Rda. Tamarguillo (Francisco Buendía),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,2636.5564901637877
+694,Ronda del Tamarguillo (Cerro del Águila),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2738.250431564082
+695,Ronda del Tamarguillo (Ramón y Cajal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3808.0898649593223
+696,Ronda del Tamarguillo (Hytasa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2555.089984213041
+697,Rda. Tamarguillo (Av. de La Paz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3148.4379157405997
+698,Ctra. Carmona (Alc. Manuel del Valle),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5431.77125676106
+699,Alc. Manuel del Valle  Av (Arq. José Granados),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4020.759357273307
+700,Av. Asoc. de Vecinos (Parque Atlántico),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2717.946287978725
+701,Av. Manuel del Valle (C.E. Pino Montano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4428.894676864392
+702,Av. Asoc. de Vecinos (C. Alfonso Grosso),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,3539.7082829265673
+703,Av. Manuel del Valle (Av. Mujer Trabaj.),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3697.712218812233
+704,Jerusalén (Junta Municipal de Distrito),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,2299.6341238279056
+705,Jerusalén (Tesalónica),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,2852.7084407547563
+706,Avda. Asociación de Vecinos (Ojiva),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,3644.683772768337
+707,Arroyo (Guanahaní),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,6642.271798745523
+708,Arroyo (Vicente Alanís),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,7841.954782563306
+709,Tharsis (Andrés Segovia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6933.624417705975
+71,Avenida Miraflores (San Juan Bosco),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4248.578146196936
+710,Tharsis (Andrés Segovia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,8057.147894839165
+711,Inca Garcilaso (Francisco de Montesinos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+712,C. Ilustración (Fundación de Psicopediatría),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,54.043411780515605
+713,Alcalde Manuel del Valle (Hespérides),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2640.162238136993
+714,Alc. M.  del Valle (Baltasar de Alcázar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3662.452928675776
+715,Alcalde Manuel del Valle (Kansas City),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2379.0441545890803
+716,Avda. Las Ciencias (Edif. Entreflores),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,7183.827687559748
+717,Éfeso (Palacio de deportes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2728.7347385810917
+718,Américo Vespucio (Monasterio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+719,Tesalónica (Gitanillo de Triana),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2228.0746416571856
+72,Avenida Miraflores (Retiro Obrero),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,5736.508003861226
+721,Av. Las Ciencias (Doctor Madrazo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5406.284650960335
+722,José Laguillo (Estación Santa.Justa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1825.4544035227314
+723,Aux. Autovía Málaga (Canal Bajo Guadal.),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2159.85844159809
+724,Ada (Jerusalén),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2338.990814571877
+725,Ada (Tarso),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3535.058601864839
+726,Avda. Kansas City (Estación Santa Justa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3557.1741572590936
+727,Auxiliar Kansas City (Est. Santa Justa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,1471.9015970049277
+728,Avda. Andalucía (Rda. Tamarguillo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2679.9783932345454
+729,Américo Vespucio (Fundacion Once),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,2.0
+73,Av. Miraflores (Sta. María de Ordás),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,28,9067.20121095084
+730,Américo Vespucio (Jacques Cousteau),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+731,Ciudad de Chiva Av. (Avda. Turia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,5760.595981374181
+732,Ctra. Valdezorras (Rda. Super Norte),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,33.0
+733,Ctra. Valdezorras (Rda. Super Norte),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,33.0
+734,Avda. Las Ciencias (Edif. Estrella Este),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6897.020039289101
+735,Avenida de Las Ciencias (Ulises),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,6387.884915118001
+736,Avda. Las Ciencias (Edif. Las Camelias),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5766.2492697646085
+737,Américo Vespucio (F. de Comunicación),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+738,Juan Bautista Muñoz (Esc. de Ingenieria),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+739,Andalucía Residencial (Edificio Málaga),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1471.2414507139972
+74,Av. San Juan de La Salle (Av. Llanes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,8298.931370922166
+740,Ulpiano Blanco (Bda. Aeropuerto Viejo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,459.0
+741,Puente La Barqueta,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,3.530205202395076
+742,Maria Galiana (Sta.M. de La Cabeza),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,833.1354740956892
+743,Avda. Las Ciencias (Edif. Albéniz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5527.880651967645
+744,Hespérides (Alcalde Manuel del Valle),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2534.4221814882208
+745,Torneo (San Laureano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,648.4201700019828
+746,Cristo de La Expiración (Plaza de Armas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,917.9388338777402
+747,Torneo (San Laureano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1721.6649684727722
+748,Torneo (Plaza de Armas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,419.9643747162379
+749,Paseo Cristóbal Colón (Torre del Oro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,305.46674982030737
+75,Parsi 6 (Parsi 2,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+750,José Laguillo (Esperanza Trinidad),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,7005.71658910601
+751,José Laguillo (Juan Antonio Cavestany),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4627.49713045627
+752,Luis de Morales (Luis Montoto),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4033.018223901817
+753,Dr. Fleming (Est. Benito Villamarín),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1674.1451987509854
+754,José Laguillo (Estación de Santa Justa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2534.9939252358363
+755,José Laguillo (Estación de Santa Justa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2534.9939252358363
+756,Luis Ortiz Muñoz (Ctra. Su Eminencia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2331.3814148025767
+757,Luis de Morales (Est. Sánchez Pizjuán),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4345.1774991878965
+758,Apeadero San Bernardo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,2991.3784744698696
+759,Enramadilla (Apeadero San Bernardo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,3836.12880993178
+76,Avenida Sánchez Pizjuán (Doctor Marañón),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4167.733511921959
+760,Victoria Dominguez (El Mago de Oz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2146.9048093064994
+761,Plaza San Román (Peñuelas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4788.244055692698
+762,Agricultores (Sembradores),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,6084.845995991076
+763,Avenida de Andalucía (Los Arcos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1055.8648696937207
+764,Glorieta Presos de Los Merinales,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4024.635844846281
+765,Prado San Sebastián (Carlos V),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,936.1281967953646
+766,Avda. Jiménez Becerril (F. Odontología),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2034.2626054262198
+767,Navarra (Corvina),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3003.8094200309993
+768,Ronda de Triana (San Vicente de Paúl),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,24,8244.398516497884
+769,Ronda de Triana (San Vicente de Paúl),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,7316.381623422852
+77,Doctor Leal Castaños (Huerta del Carmen),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,6660.118543702626
+770,Ronda de Triana (Manuel Arellano),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5594.35453417923
+771,Ronda Triana (C.D. Álvarez Gordón),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4211.637142416615
+772,Ronda Triana (C.D. Álvarez Gordón),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4304.914391106477
+773,Cristo de La Expiración (Patrocinio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,2683.3090118248097
+774,Corvina (Instituto San Jerónimo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3444.9181528375266
+775,Paseo Cristóbal Colón (Dos de Mayo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1069.9854774374203
+776,Corvina (Colegio Federico García Lorca),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3399.4006831299644
+777,Paseo Cristóbal Colón (Plaza de Toros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,787.2896480605715
+778,Concejal Jiménez Becerril (José Díaz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1799.7362788668656
+779,Arjona (Puente de Triana),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2386.2116751824897
+78,Sor Francisca Dorotea (Bda. La Barzola),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,8632.376551793091
+780,Torneo (San Lorenzo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,3175.9935301399332
+781,Torneo (Biblioteca Felipe Gonzalez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2800.22570448553
+782,Juventudes Musicales (Romanticismo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,2401.768161417838
+783,Ulpiano Blanco (Ctra. Miraflores),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,15.0
+784,José Laguillo (Puerta Osario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_distante,20,6959.983522691693
+785,María Auxiliadora (Puerta Osario),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,5924.8274249094
+786,Ronda de Capuchinos (La Trinidad),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3328.275040716196
+787,José Díaz (Macarena Tres Huertas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3544.953656147051
+788,Avenida La Barzola (Constantina),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,25,9648.01370887207
+789,Avenida La Barzola (Camino Cantalobos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,5291.186677987115
+79,Ronda de Pío XII (Madreselva),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,8265.809429658388
+790,Corral de Los Olmos (Corral del Moro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6277.808834894477
+791,Corral de Los Olmos (P. Sierra Nevada),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,5901.1565998297365
+792,Mar de Alborán (Corral de Los Olmos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5720.854776674374
+793,Mar de Alborán (Corral de La Caridad),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4583.040739954809
+794,Ctra. A-3108 (Centro Insercion Social),onibus_sem_servico_no_dia,nao_avaliada,False,mesmo_id_coerente,0,0.0
+795,Escritor A. Grosso (Ildefonso Marañon),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3498.194586628823
+796,Concejal Jiménez Becerril (José Díaz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,3231.3339642525602
+797,Dr. Fleming (Est. Benito Villamarín),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1753.8378845522532
+798,Socorro,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5321.5702221651545
+799,Avda. Emilio Lemos (Calcuta),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,5774.907997811341
+8,Calatrava (Alameda de Hércules),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4004.4559840134534
+80,Prado San Sebastián (Carlos V),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,535.9788261214023
+800,Avenida de Las Ciencias (Ciudad Verde),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3281.190744226047
+801,Luis de Morales (Est. Sánchez Pizjuán),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3782.9506128780804
+802,Avenida Holanda (Paraná),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,457.2723215580234
+803,Avda. Jiménez Becerril (F. Odontología),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1925.3857269214755
+804,Medina y Galnares (Pol.Ind. S. Jeronimo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3050.609135423773
+805,Antioquía (Antonio Momplet),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2662.52445606929
+806,Mujer Trabajadora Av (Asoc.Vecinos  Av.),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4999.303511132603
+807,Avda. Jerez (Hospital Fremap),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,1527.841997438603
+808,Torneo (Barqueta),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2356.842508133038
+809,Torneo (Barqueta),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2356.842508133038
+81,Glta. Letonia (Sta.M. de La Cabeza),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,3645.7783416302054
+810,Torneo (Barqueta),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1426.9605162560733
+811,Avenida Holanda (Paraná),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,457.2723215580234
+812,Avenida Italia (Ciudad deportiva),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2333.60061062934
+813,Avda. La Paz (Rda. Tamarguillo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3186.895801318905
+814,Glorieta Doña María García Montero,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2671.0553435374204
+815,Av. Las Ciencias (Centro de Salud),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,5039.47520523683
+816,Av. Italia (Fragata),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,3124.8580529616156
+817,Avda. Reino Unido (Nª Sª del Pilar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2151.217089764278
+818,Resolana (Barqueta),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4018.9078695642083
+819,Alcalde Manuel del Valle (Kansas City),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2379.0441545890803
+82,Torneo (Plaza de Armas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,223.15908914964047
+820,Aeronautica  Av. (Edif.Helios),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,3886.5697992449077
+821,La Florida,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,5696.3679088146055
+822,Concejal Jiménez Becerril (Barqueta),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,1853.0587916999018
+823,Avda. Alemania (Estrasburgo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,6074.929071607709
+824,Av. Kansas City (Ctra. Carmona),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2694.8582065689156
+825,Avda. Fernando Corral,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2269.088633527862
+826,Avda. Turia (Ciudad de Chiva),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5032.59458461422
+827,Av. Ciudad de Chiva (Marañon Lavin),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4530.086819959538
+828,Av. Ciudad de Chiva (C.P. Arrayanes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,4720.477769133745
+829,Torneo (Estacion Plza de Armas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,2529.1691835956653
+83,Carretera Carmona (Rafael Alberti),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,8001.063125716036
+830,Autovía Utrera (Ciudad deportiva),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+831,Concej. Jiménez Becerril (Gta. Olímpica),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4250.9043382402515
+832,Concejal Jiménez Becerril (Barqueta),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1498.3106238870034
+833,Finlanda  Av. (Paseo de Europa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,4483.049646967462
+834,Concejal Jiménez Becerril (Barqueta),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1498.3106238870034
+835,Avenida de Andalucia (Los Arcos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2305.0053492476454
+836,Ronda de Pío XII (Begoña),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,8296.634872466075
+837,Ingeniero La Cierva (Marco Polo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,7438.929957518156
+838,Ingeniero La Cierva (Gabriela Mistral),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,5339.149445462892
+839,Ingeniero La Cierva (Los Gavilanes),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,6371.175108596247
+84,Avda. Carlos V (Prado San Sebastián),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1398.9985253570524
+840,Los Gavilanes (Centro deportivo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,6677.22576287707
+841,Los Gavilanes (Barriada Juan XXIII),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,6151.755976315809
+842,Avenida Llanes (Miraflores),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,8370.985617650267
+843,Avenida Llanes (Cisneo Alto),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,5517.401932133966
+844,San Bernardo (Estación Cercanías),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,2991.3784744698696
+845,Avenida Llanes (Carretera Carmona),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,7326.1807660897175
+846,8 de Marzo (Melchor de Alcázar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4433.159435902705
+847,Avenida Llanes (Carretera Carmona),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,7028.25821761658
+848,Inca Garcilaso (Francisco de Montesinos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+849,Paseo de Europa (Lyon),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4150.034480569703
+85,Torneo (Estacion Plz. Armas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,297.98582988459543
+850,Avenida Francia (Avenida Grecia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3174.7496759472315
+851,Av. Las Letanías (Inst. Dominguez Ortiz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3471.3859970509766
+852,Escultor Sebastián Santos,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3967.8017685836408
+853,José Galán Merino (Cantina),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,2658.802005592422
+854,Avda. La Paz (Ctra. Su Eminencia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2900.23330709195
+855,Avenida de La Paz (Torre de David),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1683.6542305907196
+856,Avenida de La Paz (Reina de Los Ángeles),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1619.2526532251768
+857,Avenida Italia (Grecia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,1577.3870188018982
+858,Avenida Italia (Siena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,2236.6736922412165
+859,Cortijo Las Casillas (Rda. Supernorte),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,2755.951874192633
+86,Pedro Romero (Antonio de Lara),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4254.657998750386
+860,Avenida Finlandia (Polonia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,3516.942438625587
+861,Poeta Manuel Benítez (P. González Abato),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,2708.3497738845367
+862,Marqués Luca de Tena (Virgen del Rocío),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2593.970400726148
+863,Marqués Luca de Tena (Virgen del Rocío),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2482.7278254386665
+864,Marqués Luca de Tena (Hospital V.Rocio),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2414.6464265056493
+865,Bueno Monreal (Tabladilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,536.6006247041281
+866,Marqués Luca de Tena (La Palmera),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,1622.8047204387494
+867,Poeta Benítez Carrasco (Ronda La Oliva),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2582.808295990879
+868,Avda. Reino Unido (Dresde),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2095.727053980979
+869,Universidad Pablo Olavide,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+87,Pedro Romero (Frascuelo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2779.4210863898797
+870,Ctra. Pino Montano (Finca Encarnación),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+871,Cortijo de Las Casillas (Alfareros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,3113.13680208184
+872,La Palmera (Bueno Monreal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,1427.8486545936084
+873,La Palmera (Bueno Monreal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,1519.292832613844
+874,Ulpiano Blanco (Aerop. Viejo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,118.76936812790413
+875,Aux. Autovía Madrid (Ulpiano Blanco),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,195.65029000459842
+876,Ctra. El Gordillo (Control de Vuelo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+877,Ctra. El Gordillo (Hiedra),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,75.0
+878,Avda. El Greco (Agustín Moreto),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,3055.1921071919305
+879,Avda. Bellavista (Asensio y Toledo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4872.0687159467225
+88,Avda. Parsi (Las Lumbreras),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,578.5141825433078
+880,Poeta Benítez Carrasco (Avenida La Paz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4149.267296817343
+881,Plaza de La Contratacion,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,4,715.7895342746656
+883,Reyes Catolicos (Pastor y Landero),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,4147.0152144410085
+884,Pagés del Corro (R. Salas González),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5503.213813631544
+885,San Vicente de Paúl (Ig. Gómez Millán),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,7778.73743053265
+886,Fuente del Rey (Romeria de Valme),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+887,Amador de Los Ríos (Puerta Carmona),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,6747.999999999998
+888,Recaredo (San Roque),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,6235.377165968804
+889,Recaredo (San Roque),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,6031.236498976345
+89,Solea Av.(Parroquia del Pilar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4234.909022564465
+891,José de Gálvez (Pabellón de Andalucía),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,0.0018965345688451165
+892,Alfredo Kraus,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,461.0397882801652
+893,Alfredo Kraus (Oficina de Lipasam),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1299.5007271989323
+895,Avda. Maestranza Aerea (Comisaria Policia),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,382.0
+896,Alfonso de Orleans (Maestranza Aérea),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,784.0
+897,Alfredo Kraus (Lipasam),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,1299.5007271989323
+898,Estaca de Bares (Brunete),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,1021.459794480251
+899,Plaza Chapina (Castilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2447.695012527786
+90,Solea Av. (El Greco),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,4129.604284111106
+900,Hespérides (Baltasar de Alcázar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1766.485535304519
+901,Glta. Letonia (Sta.M. de La Cabeza),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3793.405921460265
+902,Baltasar de Alcázar (Sánchez Samaniego),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3242.0292399618643
+903,Menéndez Pelayo (Juzgados),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,1369.6874774061203
+904,Estrella Vega,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,5490.54634519846
+905,Prado San Sebastián (Carlos V),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,535.9788261214023
+906,Prado San Sebastián (Carlos V),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,936.1281967953646
+907,Camino de Los descubrimientos (Torre Sevilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,469.0446232055709
+908,Avenida Carlos V (Prado San Sebastián),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,535.9788261214023
+909,Bueno Monreal (Gerardo Diego),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2490.549326968581
+91,Dr. Ordoñez de La Barrera,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4264.880133350943
+910,Hespérides (Alcalde Manuel del Valle),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3137.5802030711257
+911,Escultor Seb. Santos (Parque Bomberos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3712.8965141245053
+912,Pino Piñonero (Pino Central),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+913,Hespérides (Viviendas de Renfe),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2570.2571579279547
+914,Pino Silvestre (S. Jose de Palmete),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,1786.3200986410154
+915,Apeadero San Bernardo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,2943.092663268774
+916,Avenida Carlos V (Prado San Sebastián),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,535.9788261214023
+917,Menéndez Pelayo (Juzgados),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1120.3371943279421
+918,Menéndez Pelayo (Juzgados),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,5,806.1832466992919
+919,Estrella Vega (Estrella Proción),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,6783.399080961816
+920,Plaza Ponce de León,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4727.7015043774745
+922,Gran Plaza,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4180.699161649804
+923,Gran Plaza,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4996.961782754117
+924,Dr. Ordoñez de La Barrera,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,3569.2547633231366
+925,Parlamento de Andalucía (Macarena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,4284.991039081567
+926,Pino Piñonero (Pino Central),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+927,Ramón y Cajal (Facultad Empresariales),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,2020.989353057414
+929,Avda. Las Ciencias (Edif. Albéniz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5790.4108005066355
+93,Cataluña (Parroquia San Jeronimo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2261.0577869341273
+931,Juan Bautista Muñoz (Teatro Central),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,0.04749663361852048
+933,Inca Garcilaso (Caixa Forum),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,408.51742413439524
+934,Apeadero San Bernardo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,2943.092663268774
+935,Juan Bautista Muñoz (Esc. de Ingenieria),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+936,Américo Vespucio (F. de Comunicación),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+937,Américo Vespucio (Jacques Cousteau),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+938,Américo Vespucio (Fundacion Once),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+939,Américo Vespucio (Monast. de La Cartuja),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+940,Inca Garcilaso (Torre Sevilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,3,581.5271990711756
+941,Camino de Los descubrimientos (Torre Sevilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,2,469.0446232055709
+942,Esperanza de Triana (Espartinas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,6618.725148089367
+943,Dña. María Coronel (San Felipe),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3270.5476133030566
+944,Juan Bautista Muñoz(José Gálvez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,0.04749663361852048
+945,Victoria Kent,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2929.1760346285228
+946,Estrella Canopus,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,5376.1397817585
+947,Avenida de Andalucía (Los Arcos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,2285.666479248558
+948,Avenida de Andalucía (Los Arcos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1060.9250120478148
+949,Apeadero San Bernardo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,2991.3784744698696
+95,Marqués de Pickman (Mercado),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4576.635461842512
+950,Esparteros (Mercado),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,6440.779758903698
+951,Camino de Los Toros (Enfermeras),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,3715.2685753605138
+952,Corral de Los Olmos (Corral del Agua),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,5447.681840206343
+953,Parque de Doñana (Ronda Norte),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,4039.116123231375
+954,La Barzola  Av. (Pueblo Palestino),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,23,9412.722017246957
+955,Avda. La Barzola (Cazalla de La Sierra),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,8546.403051729872
+956,Santa Fe (Niebla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5640.656543946661
+957,Santa Fe (Niebla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5940.284664162145
+958,López de Gomara (San Martín de Porres),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,24,5810.608107319688
+959,Jimenez de Quesada (Torre Sevilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,6,1565.3504075710186
+96,Marqués de Pickman (Mercado),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,4508.698104808296
+961,Estrella Betelgeuse (Agricultores),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,5041.3739732755785
+962,Apeadero San Bernardo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,2966.8480319706923
+963,Plaza Ponce de León,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4727.7015043774745
+964,Almirante Topete (Estepa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4329.541633843754
+965,Lora del Rio (Marchena),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,4814.630023918798
+966,Almirante Topete (Écija),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,3133.923344261104
+968,Alf. Lasso de La Vega (Instit. Ramón C.),onibus_com_servico_no_dia,ligada_componente_principal,True,so_gtfs,14,3459.5016197489654
+969,Estrella Betelgeuse (Estrella Canopus),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,7362.832253107606
+970,Camino de Los Toros (Corral del Moro),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,5536.281784118943
+971,Ctra. El Pítamo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+972,Victoria Dominguez (C.P. Alberto Lista),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,2406.947094160612
+973,Victoria Dominguez (Poeta M. Benitez),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,12,3328.1582730748987
+974,Camino de Los Toros (Mar de Alborán),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,5990.329468430999
+975,Nuestro Padre Jesus (Doña Clarines),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,2748.870660011488
+976,Reina Mercedes (Glta. Alc. Parias Merry),onibus_com_servico_no_dia,ligada_componente_principal,True,so_gtfs,13,2240.3492282538436
+977,Reina Mercedes (Glta. Alc. Parias Merry),onibus_com_servico_no_dia,ligada_componente_principal,True,so_gtfs,14,2330.475765725691
+978,Ramón Carande (Pedro Salinas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,20,4953.201654170833
+979,Ramón Carande (Pedro Salinas),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,21,4873.72163988345
+98,Orfebre Cay. Gonzale(L.Ortiz Muñoz),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,11,2985.5897467796044
+980,Cardenal Bueno Monreal (C.D. Porvenir),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3269.059743119859
+981,Bueno Monreal (Tabladilla),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,13,3983.142938175468
+982,Avenida Carlos V (Prado San Sebastián),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,8,535.9788261214023
+983,Av. Las Ciencias (Edif. Las Camelias),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,16,4795.6744206446965
+984,Enramadilla (Apeadero San Bernardo),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,18,3427.372732379039
+985,Villanueva del Pítamo,onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,65.33666238992832
+986,Ctra. Isla Menor (Inst. La Grasa),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,1,0.22125318286223428
+987,Avenida Carlos V (Prado San Sebastián),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1406.1668366881947
+988,Avda. Andalucia (Los Pajaros),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,19,4985.212579261945
+989,Baltasar de Alcázar (Sánchez Samaniego),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3242.0292399618643
+99,Avda. Portugal (Ciudad de Ronda),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3911.1387049228856
+991,Navarra (Extremadura),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,15,3436.0808725185843
+992,Medina y Galnares (Extremadura),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,10,1928.4352195144984
+993,Alf. Lasso de La Vega (Sierra La Grana),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,17,3431.1731764125234
+994,Dr. Fedriani (Glta. Los Ferroviarios),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,0,0.0
+995,Dr. Fedriani (Glta. Los Ferroviarios),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,7,2208.2582706860776
+996,Alondra (Zorzal),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,22,8013.2074949929865
+997,Medina y Galnares (Calamar),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,14,3417.888480553285
+998,Galaxia (Navio Argos),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,24,10048.695776412145
+999,Avenida Carlos V (Prado San Sebastián),onibus_com_servico_no_dia,ligada_componente_principal,True,mesmo_id_coerente,9,936.1281967953646

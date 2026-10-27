@@ -1,0 +1,25 @@
+ordem,indicador,valor,unidade,nota
+1,populacao_ine_2024,686741.0,hab,"INE Censo Anual, 01/01/2024 (referência oficial)"
+2,populacao_grade_publicada_celulas,686050.0,hab,"IECA 01/01/2024: 887 células que tocam Sevilla, inclusive parte de vizinhos"
+3,populacao_grade_estimada_sevilla,684251.153003327,hab,denominador dos percentuais de cobertura
+4,populacao_coberta_400m,645680.3215501594,hab,
+5,populacao_sem_cobertura_400m,38378.76857598064,hab,
+6,populacao_nao_determinada,192.0628771882056,hab,
+7,pct_coberta_400m,94.36305934102239,%,sobre a população da grade
+8,pct_sem_cobertura_400m,5.608871597443115,%,sobre a população da grade
+9,pct_nao_determinada,0.02806906153467187,%,sobre a população da grade
+10,populacao_valor_convencional_sigilo,109.88309158344263,hab,células com total convencional 2 (não é contagem exata)
+11,dist_media_ponderada_parada_m,209.2207479762721,m,"percurso na rede, origens determinadas"
+12,pontos_demanda,2674.0,pontos,
+13,pontos_cobertos,2332.0,pontos,
+14,pontos_sem_cobertura,328.0,pontos,
+15,pontos_nao_determinados,14.0,pontos,
+16,paradas_gtfs,1055.0,paradas,
+17,paradas_com_servico_onibus_dia,1027.0,paradas,21/10/2026
+18,paradas_destino_ligadas,1027.0,paradas,
+19,paradas_ligacao_incerta,2.0,paradas,
+20,paradas_alcancadas_por_alguma_origem,981.0,paradas,
+21,pares_origem_parada_400m,12571.0,pares,
+22,secoes,521.0,secoes,
+23,secoes_100pct_cobertas,426.0,secoes,
+24,secoes_sem_pontos_demanda,0.0,secoes,

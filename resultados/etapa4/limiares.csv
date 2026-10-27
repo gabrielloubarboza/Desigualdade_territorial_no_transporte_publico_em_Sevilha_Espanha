@@ -1,0 +1,12 @@
+cenario,criterio,variavel,operador,regra,n_universo,valor
+principal,alta_densidade,densidade_ine_hab_km2,>=,P75.0 das 521 seções (percentile_cont),521,30976.793288433233
+principal,baixa_cobertura,pct_coberta_400m,<,abaixo da cobertura municipal (população da grade),521,94.36305934102239
+principal,baixa_diversidade_linhas,linhas_cob_manha,<=,P25.0 das seções com população coberta,519,2.039666056126842
+principal,baixa_frequencia,partidas_h_cob_manha,<=,P25.0 das seções com população coberta,519,15.212322582628886
+principal,baixa_frequencia_manha,partidas_h_cob_manha,<=,P25 das seções com população coberta,519,15.212322582628886
+principal,baixa_frequencia_meio_dia,partidas_h_cob_meio_dia,<=,P25 das seções com população coberta,519,15.5
+principal,baixa_frequencia_tarde,partidas_h_cob_tarde,<=,P25 das seções com população coberta,519,12.89979083375751
+sensibilidade_tercis,alta_densidade,densidade_ine_hab_km2,>=,P66.7 das 521 seções (percentile_cont),521,26244.44351673665
+sensibilidade_tercis,baixa_cobertura,pct_coberta_400m,<,abaixo de 99% (alguma população relevante sem parada),521,99.0
+sensibilidade_tercis,baixa_diversidade_linhas,linhas_cob_manha,<=,P33.3 das seções com população coberta,519,2.54536300086038
+sensibilidade_tercis,baixa_frequencia,partidas_h_cob_manha,<=,P33.3 das seções com população coberta,519,18.150535741495784

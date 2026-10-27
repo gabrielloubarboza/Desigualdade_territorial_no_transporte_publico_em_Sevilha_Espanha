@@ -1,0 +1,38 @@
+tipo_objeto,id,cusec,pob,tipo,detalhe
+origem,3005_4109107022,4109107022,219.75864465837063,ligacao_longa_150m,ligação primária de 172.7 m
+origem,3007_4109107022,4109107022,2.0,ligacao_longa_150m,ligação primária de 212.6 m
+origem,3009_4109107022,4109107022,1.923022628655541,ligacao_longa_150m,ligação primária de 154.5 m
+origem,3015_4109107022,4109107022,2.5732228172821023,ligacao_longa_150m,ligação primária de 183.8 m
+origem,3017_4109107022,4109107022,8.092197206078055,ligacao_longa_150m,ligação primária de 212.3 m
+origem,3070_4109107025,4109107025,1.0210909243494664,ligacao_longa_150m,ligação primária de 184.7 m
+origem,3131_4109107025,4109107025,6.0,ligacao_longa_150m,ligação primária de 247.1 m
+origem,3132_4109107025,4109107025,2.0,ligacao_longa_150m,ligação primária de 169.3 m
+origem,5005_4109111001,4109111001,2.7662386250694597,ligacao_longa_150m,ligação primária de 248.5 m
+origem,52778_4109111001,4109111001,18.0,ligacao_longa_150m,ligação primária de 189.1 m
+origem,1800_4109109069,4109109069,4.907409764680961,nao_determinado,ligada_apenas_a_componente_isolado
+origem,261855_4109107025,4109107025,1.0734368260957807,nao_determinado,ligada_apenas_a_componente_isolado
+origem,262468_4109111001,4109111001,8.0,nao_determinado,ligada_apenas_a_componente_isolado
+origem,3103_4109109069,4109109069,7.0,nao_determinado,ligada_apenas_a_componente_isolado
+origem,3167_4109107025,4109107025,3.417741444362368,nao_determinado,sem_ligacao_a_rede
+origem,3168_4109107025,4109107025,0.1190675148858719,nao_determinado,ligada_apenas_a_componente_isolado
+origem,3305_4109109033,4109109033,82.07952022536706,nao_determinado,sem_ligacao_a_rede
+origem,3306_4109109004,4109109004,20.979248253720403,nao_determinado,sem_ligacao_a_rede
+origem,3482_4109109004,4109109004,6.297550771171036,nao_determinado,sem_ligacao_a_rede
+origem,3634_4109109018,4109109018,7.0,nao_determinado,sem_ligacao_a_rede
+origem,3743_4109110009,4109110009,29.188902387922095,nao_determinado,sem_ligacao_a_rede
+origem,3746_4109111001,4109111001,10.0,nao_determinado,ligada_apenas_a_componente_isolado
+origem,50668_4109109069,4109109069,2.0,nao_determinado,ligada_apenas_a_componente_isolado
+origem,59477_4109107022,4109107022,10.0,nao_determinado,ligada_apenas_a_componente_isolado
+parada,1112,,,divergencia_gtfs_ide_mesmo_id_distante,Padre G. Tejero  Av. (Gta. Parias Merry)
+parada,1113,,,divergencia_gtfs_ide_mesmo_id_distante,José Laguillo (Puerta Osario)
+parada,784,,,divergencia_gtfs_ide_mesmo_id_distante,José Laguillo (Puerta Osario)
+parada,157,,,divergencia_gtfs_ide_so_gtfs,Reina Mercedes (E.S.I. Informática)
+parada,61,,,divergencia_gtfs_ide_so_gtfs,Reina Mercedes (Gta. Alc. Parias Merry)
+parada,62,,,divergencia_gtfs_ide_so_gtfs,Reina Mercedes (E.S.I. Informática)
+parada,968,,,divergencia_gtfs_ide_so_gtfs,Alf. Lasso de La Vega (Instit. Ramón C.)
+parada,976,,,divergencia_gtfs_ide_so_gtfs,Reina Mercedes (Glta. Alc. Parias Merry)
+parada,977,,,divergencia_gtfs_ide_so_gtfs,Reina Mercedes (Glta. Alc. Parias Merry)
+parada,925,,,ligacao_secundaria_componente_principal,primária em componente isolado; secundária a 18.7 m
+parada,950,,,ligacao_secundaria_componente_principal,primária em componente isolado; secundária a 8.4 m
+parada,1002,,,ligada_apenas_componente_isolado,Aeropuerto de Sevilla (Salidas)
+parada,650,,,ligada_apenas_componente_isolado,Aeropuerto de Sevilla (Llegadas)

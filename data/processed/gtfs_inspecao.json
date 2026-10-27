@@ -1,0 +1,312 @@
+{
+  "arquivos": {
+    "agency": 1,
+    "stops": 1055,
+    "routes": 59,
+    "trips": 27845,
+    "stop_times": 509623,
+    "calendar": 4,
+    "calendar_dates": 0,
+    "frequencies": null,
+    "shapes": null,
+    "feed_info": 1
+  },
+  "agency": [
+    {
+      "agency_id": "TUSSAM",
+      "agency_name": "Transportes Urbanos de Sevilla S.A.M.",
+      "agency_url": "http://www.tussam.es",
+      "agency_timezone": "Europe/Madrid",
+      "agency_lang": "es",
+      "agency_phone": "+34 955 479 000     "
+    }
+  ],
+  "feed_info": [
+    {
+      "feed_publisher_name": "Transportes Urbanos de Sevilla S.A.M.",
+      "feed_publisher_url": "http://www.tussam.es",
+      "feed_lang": "es",
+      "default_lang": NaN,
+      "feed_start_date": "20260928",
+      "feed_end_date": "20270117",
+      "feed_version": "20260928",
+      "feed_contact_email": NaN,
+      "feed_contact_url": NaN
+    }
+  ],
+  "timezone_ok": true,
+  "route_types": {
+    "0": {
+      "n_rotas": 1,
+      "linhas": [
+        "T1"
+      ]
+    },
+    "3": {
+      "n_rotas": 58,
+      "linhas": [
+        "01",
+        "02",
+        "03",
+        "05",
+        "06",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "20",
+        "21",
+        "22",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "34",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "43",
+        "52",
+        "53",
+        "LN",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "B3",
+        "EA",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "C6A",
+        "C6B",
+        "A8",
+        "B4",
+        "C5",
+        "38A",
+        "LS",
+        "CJ",
+        "TB1",
+        "60",
+        "CJ1"
+      ]
+    }
+  },
+  "viagens_por_route_type": {
+    "3": 26887,
+    "0": 958
+  },
+  "calendar": [
+    {
+      "service_id": "INVFES40",
+      "monday": "0",
+      "tuesday": "0",
+      "wednesday": "0",
+      "thursday": "0",
+      "friday": "0",
+      "saturday": "0",
+      "sunday": "1",
+      "start_date": "20261004",
+      "end_date": "20270117"
+    },
+    {
+      "service_id": "INVLAB40",
+      "monday": "1",
+      "tuesday": "1",
+      "wednesday": "1",
+      "thursday": "1",
+      "friday": "0",
+      "saturday": "0",
+      "sunday": "0",
+      "start_date": "20260928",
+      "end_date": "20270117"
+    },
+    {
+      "service_id": "INVSAB40",
+      "monday": "0",
+      "tuesday": "0",
+      "wednesday": "0",
+      "thursday": "0",
+      "friday": "0",
+      "saturday": "1",
+      "sunday": "0",
+      "start_date": "20261003",
+      "end_date": "20270117"
+    },
+    {
+      "service_id": "INVVIE40",
+      "monday": "0",
+      "tuesday": "0",
+      "wednesday": "0",
+      "thursday": "0",
+      "friday": "1",
+      "saturday": "0",
+      "sunday": "0",
+      "start_date": "20261002",
+      "end_date": "20270117"
+    }
+  ],
+  "calendar_dates_registros": 0,
+  "viagens_por_service": {
+    "INVVIE40": 8535,
+    "INVLAB40": 8336,
+    "INVSAB40": 6128,
+    "INVFES40": 4846
+  },
+  "paradas": {
+    "n": 1055,
+    "ids_unicos": true,
+    "lat_min_max": [
+      37.310978,
+      37.451149
+    ],
+    "lon_min_max": [
+      -6.013968,
+      -5.8476877
+    ],
+    "sem_coordenada": 0,
+    "location_type_valores": {
+      "(vazio)": 1055
+    },
+    "com_parent_station": 0,
+    "sem_uso_em_stop_times": 0
+  },
+  "integridade": {
+    "trips_route_inexistente": 0,
+    "trips_service_inexistente": 0,
+    "stop_times_trip_inexistente": 0,
+    "stop_times_stop_inexistente": 0,
+    "trips_sem_stop_times": 0,
+    "trip_id_duplicado": 0,
+    "trip_seq_duplicado": 0,
+    "shape_id_preenchido": 0
+  },
+  "tempo": {
+    "stop_times_total": 509623,
+    "com_horario_explicito": 140063,
+    "sem_horario": 369560,
+    "pct_explicito": 27.48,
+    "coluna_timepoint_presente": false,
+    "arrival_diferente_departure": 0,
+    "primeira_parada_sem_hora": 0,
+    "ultima_parada_sem_hora": 0,
+    "viagens_sem_nenhuma_hora": 0,
+    "horario_min": "04:30:00",
+    "horario_max": "30:00:00",
+    "registros_apos_24h": 3258,
+    "intervalo_entre_pontos_controle_min": {
+      "count": 112218.0,
+      "mean": 8.7,
+      "std": 4.75,
+      "min": 1.0,
+      "25%": 5.0,
+      "50%": 8.0,
+      "75%": 12.0,
+      "max": 31.0
+    },
+    "paradas_sem_hora_consecutivas": {
+      "count": 93441.0,
+      "mean": 3.96,
+      "std": 2.3,
+      "min": 1.0,
+      "25%": 2.0,
+      "50%": 4.0,
+      "75%": 5.0,
+      "max": 20.0
+    },
+    "diferenca_tempo_negativa_ou_zero": 0,
+    "paradas_por_viagem": {
+      "count": 27845.0,
+      "mean": 18.3,
+      "std": 7.58,
+      "min": 2.0,
+      "25%": 13.0,
+      "50%": 18.0,
+      "75%": 23.0,
+      "max": 46.0
+    },
+    "viagens_inicio_seq_maior_que_zero": 838
+  },
+  "stop_sequence_como_distancia": {
+    "razao_dseq_euclid": {
+      "count": 481778.0,
+      "mean": 1.219,
+      "std": 1.204,
+      "min": 0.904,
+      "1%": 0.985,
+      "5%": 0.997,
+      "50%": 1.038,
+      "95%": 1.712,
+      "99%": 2.666,
+      "max": 36.748
+    },
+    "pct_razao_menor_0_95": 0.17,
+    "velocidade_kmh_entre_pontos_controle": {
+      "count": 112218.0,
+      "mean": 13.21,
+      "std": 9.09,
+      "min": 1.85,
+      "1%": 4.46,
+      "50%": 12.58,
+      "99%": 24.22,
+      "max": 444.42
+    },
+    "trechos_velocidade_acima_60kmh": 55
+  },
+  "dia_referencia": {
+    "data": "2026-10-21",
+    "dia_semana": "wednesday",
+    "dentro_feed_info": true,
+    "feriado_conhecido": null,
+    "feriados_na_vigencia_nao_codificados": {
+      "2026-10-12": "Fiesta Nacional",
+      "2026-11-02": "Todos los Santos (trasladado)",
+      "2026-12-07": "Día de la Constitución (trasladado)",
+      "2026-12-08": "Inmaculada Concepción",
+      "2026-12-25": "Natividad",
+      "2027-01-01": "Año Nuevo",
+      "2027-01-06": "Epifanía"
+    },
+    "servicos_ativos": [
+      "INVLAB40"
+    ],
+    "viagens_total": 8336,
+    "viagens_onibus": 8080,
+    "viagens_bonde": 256,
+    "linhas_onibus_com_servico": 57,
+    "linhas_onibus_sem_servico": [
+      "53"
+    ]
+  },
+  "periodos_preparados": {
+    "manha": {
+      "intervalo": "07:00:00-09:00:00",
+      "viagens_onibus_iniciadas": 1066,
+      "viagens_onibus_em_curso": 1273
+    },
+    "meio_dia": {
+      "intervalo": "12:00:00-14:00:00",
+      "viagens_onibus_iniciadas": 1007,
+      "viagens_onibus_em_curso": 1322
+    },
+    "tarde": {
+      "intervalo": "17:00:00-19:00:00",
+      "viagens_onibus_iniciadas": 830,
+      "viagens_onibus_em_curso": 1091
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "gtfs_tussam": {
+    "url": "https://files.mobilitydatabase.org/mdb-2770/mdb-2770-202609300035/mdb-2770-202609300035.zip",
+    "http_status_head": 200,
+    "last_modified": "Wed, 30 Sep 2026 00:35:47 GMT",
+    "content_length": 2165177,
+    "etag": "\"25f3aba06d524efa693fcd61b8816093\"",
+    "acao": "mantido (md5 identico)",
+    "arquivo": "data/raw/gtfs_tussam/tussam_gtfs_mdb-2770-202609300035.zip",
+    "tamanho_bytes": 2165177,
+    "md5": "25f3aba06d524efa693fcd61b8816093",
+    "sha256": "27c3de58dcf65496ea5033544fb07060c3d47126e84129b6bfb9b5f0225da6f9",
+    "descricao": "GTFS Schedule TUSSAM (autobuses urbanos + tranvía Metrocentro)",
+    "produtor": "Transportes Urbanos de Sevilla S.A.M. (TUSSAM), publicado no Punto de Acceso Nacional (MITRAMS)",
+    "url_produtor": "https://nap.transportes.gob.es/api/Fichero/download/1567",
+    "status_url_produtor_sem_credencial": 403,
+    "autenticacao": "NAP exige API key (HTTP 401 sem credencial); espelho Mobility Database é público",
+    "catalogo": "https://mobilitydatabase.org/feeds/gtfs/mdb-2770",
+    "versao": "mdb-2770-202609300035 (feed_version 20260928)",
+    "formato": "GTFS (zip/csv)",
+    "licenca": "Licencia de datos abiertos del MITRAMS (https://nap.transportes.gob.es/licencia-datos) — reutilização e redistribuição com atribuição 'Powered by MITRAMS'",
+    "arquivos_zip": [
+      "agency.txt",
+      "calendar.txt",
+      "calendar_dates.txt",
+      "feed_info.txt",
+      "routes.txt",
+      "stops.txt",
+      "stop_times.txt",
+      "trips.txt"
+    ],
+    "data_obtencao": "2026-10-25T02:21:55+00:00",
+    "ultima_verificacao": "2026-10-25T02:54:56+00:00"
+  },
+  "ine_seccionado_2024": {
+    "url": "https://www.ine.es/prodyser/cartografia/seccionado_2024.zip",
+    "http_status_head": 200,
+    "last_modified": "Thu, 21 Mar 2024 13:38:34 GMT",
+    "content_length": 65690243,
+    "etag": "\"193400d-3ea5a83-6142bd2db4a80\"",
+    "acao": "mantido (tamanho identico)",
+    "arquivo": "data/raw/ine_seccionado/seccionado_2024.zip",
+    "tamanho_bytes": 65690243,
+    "md5": "969df2ec8fa66fb57dfb0519d952ff17",
+    "sha256": "df931fa0d372808eb81abb2f2645ed5ecccbd6ed397b85db656980748ddd6bf7",
+    "descricao": "Cartografía digitalizada de secciones censales — seccionado a 1 de enero de 2024",
+    "produtor": "Instituto Nacional de Estadística (INE)",
+    "pagina": "https://www.ine.es/prodyser/cartografia/",
+    "versao": "SECC_CE_20240101",
+    "formato": "ESRI Shapefile (EPSG:25830)",
+    "licenca": "Aviso legal INE: reutilização permitida citando a fonte (https://www.ine.es/aviso_legal)",
+    "autenticacao": "não",
+    "arquivos_zip": [
+      "SECC_CE_20240101.shp",
+      "SECC_CE_20240101.shx",
+      "SECC_CE_20240101.CPG",
+      "SECC_CE_20240101.dbf",
+      "SECC_CE_20240101.prj",
+      "SECC_CE_20240101.sbn",
+      "SECC_CE_20240101.sbx"
+    ],
+    "data_obtencao": "2026-10-25T02:21:57+00:00",
+    "ultima_verificacao": "2026-10-25T02:55:00+00:00"
+  },
+  "ine_censo_anual_secciones": {
+    "url": "https://www.ine.es/jaxiT3/files/t/es/csv_bdsc/69258.csv",
+    "http_status_head": 200,
+    "last_modified": "Wed, 29 Apr 2026 09:00:02 GMT",
+    "content_length": null,
+    "etag": null,
+    "acao": "mantido (Last-Modified e hash identicos)",
+    "data_obtencao": "2026-10-25T02:52:23+00:00",
+    "arquivo": "data/raw/ine_censo_anual/ine_69258_poblacion_seccion_sexo_nacionalidad_sevilla.csv",
+    "tamanho_bytes": 6123718,
+    "md5": "6e7d3f1f6b33cf12845bbe60f26d41bd",
+    "sha256": "9e24f59ddf915c5c98a5ac5d86d6b3ac8aef386c21daf6f189a1d4ce7f047ad3",
+    "descricao": "Censo Anual de Población 2021-2025, resultados por secciones censales, provincia de Sevilla — Tabela 69258 'Población por sexo y nacionalidad (española/extranjera)'",
+    "produtor": "Instituto Nacional de Estadística (INE)",
+    "pagina": "https://www.ine.es/dynt3/inebase/es/index.htm?padre=11100&capsel=11143",
+    "versao": "publicação de 29/04/2026 (períodos 2021-2025, ref. 1 de janeiro)",
+    "formato": "CSV ';' UTF-8 com BOM (HTTP declara ISO-8859-15), separador de milhar '.'",
+    "licenca": "Aviso legal INE: reutilização permitida citando a fonte",
+    "autenticacao": "não",
+    "ultima_verificacao": "2026-10-25T02:55:01+00:00"
+  },
+  "ieca_grid_250m": {
+    "data_obtencao": "2026-10-25T02:22:07+00:00",
+    "requisicao": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/grid/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=grid%3Agridp_250&outputFormat=application%2Fjson&srsName=urn%3Aogc%3Adef%3Acrs%3AEPSG%3A%3A25830&bbox=230677.55489999987%2C4131989.147500001%2C250942.59200000018%2C4149709.762700001%2Curn%3Aogc%3Adef%3Acrs%3AEPSG%3A%3A25830",
+    "n_feicoes": 1638,
+    "ultima_verificacao": "2026-10-25T02:55:01+00:00",
+    "descricao": "Distribución espacial de la población en Andalucía — malla 250 m x 250 m (grid:gridp_250), população residente a 1 de enero de 2024",
+    "produtor": "Instituto de Estadística y Cartografía de Andalucía (IECA)",
+    "pagina": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/dega/distribucion-espacial-de-la-poblacion-en-andalucia",
+    "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/grid/wfs",
+    "arquivo": "data/raw/ieca_grid/ieca_gridp_250_2024_sevilla.geojson",
+    "formato": "GeoJSON via WFS 2.0 (EPSG:25830)",
+    "sha256": "b7f55f1b68cbd9b881ebc9028090295142e1472aabedf088029054cec452e3e4",
+    "tamanho_bytes": 1727332,
+    "licenca": "IECA: produtos sob CC BY 4.0 desde 2014 (citar autoria e data); termos vigentes não reconfirmados nesta etapa",
+    "autenticacao": "não",
+    "documentacao": [
+      "data/raw/ieca_grid/docs/073-distribucion-espacial-poblacion-MT020103.pdf",
+      "data/raw/ieca_grid/docs/073-distribucion-espacial-poblacion-IME020103.pdf"
+    ]
+  },
+  "tussam_ide_paradas": {
+    "data_obtencao": "2026-10-25T02:22:09+00:00",
+    "n_feicoes": 2585,
+    "data_ultima_edicao_servico_ms": 1792469553692,
+    "descricao": "Localización de las paradas de Autobuses urbanos de Sevilla (TUSSAM).",
+    "titulo": "TUSSAM_Paradas",
+    "produtor": "TUSSAM / Ayuntamiento de Sevilla (IDE Sevilla — cda-idesevilla.opendata.arcgis.com)",
+    "url": "https://services1.arcgis.com/hcmP7kr0Cx3AcTJk/arcgis/rest/services/TUSSAM_Paradas/FeatureServer/0",
+    "item_arcgis": "9a26b7b8cf594b32bd4f0c6a193fe252",
+    "arquivo": "data/raw/tussam_ide/tussam_paradas.geojson",
+    "formato": "GeoJSON (EPSG:4326) exportado de ArcGIS FeatureServer (nativo EPSG:3857)",
+    "atualizacao_declarada": "Actualizado a fecha 20/10/2026 (descrição do item)",
+    "licenca": "Termos TUSSAM: acesso sem restrição e sem atribuição exigida, mas proíbe redistribuir a informação (modificada ou não) em sítio web ou outro meio — NÃO versionar no GitHub",
+    "sha256": "38daddd560f731fc52da49269d6ea376d7f8e62ae456c83615285f314fc81c63",
+    "tamanho_bytes": 784741,
+    "autenticacao": "não",
+    "ultima_verificacao": "2026-10-25T02:55:03+00:00"
+  },
+  "tussam_ide_linhas": {
+    "data_obtencao": "2026-10-25T02:22:11+00:00",
+    "n_feicoes": 136,
+    "data_ultima_edicao_servico_ms": 1792469490550,
+    "descricao": "Localización de los recorridos de líneas de Autobuses urbanos de Sevilla (TUSSAM).",
+    "titulo": "TUSSAM_Lineas",
+    "produtor": "TUSSAM / Ayuntamiento de Sevilla (IDE Sevilla — cda-idesevilla.opendata.arcgis.com)",
+    "url": "https://services1.arcgis.com/hcmP7kr0Cx3AcTJk/arcgis/rest/services/TUSSAM_Lineas/FeatureServer/0",
+    "item_arcgis": "c5e6ecf63aa944c8a09eb1e65e72d8f4",
+    "arquivo": "data/raw/tussam_ide/tussam_lineas.geojson",
+    "formato": "GeoJSON (EPSG:4326) exportado de ArcGIS FeatureServer (nativo EPSG:3857)",
+    "atualizacao_declarada": "Actualizado a fecha 20/10/2026 (descrição do item)",
+    "licenca": "Termos TUSSAM: acesso sem restrição e sem atribuição exigida, mas proíbe redistribuir a informação (modificada ou não) em sítio web ou outro meio — NÃO versionar no GitHub",
+    "sha256": "e01b942eddc90e70d6fe1a4a39fab9ae2e4176787251d5575b5072d254d65220",
+    "tamanho_bytes": 1036770,
+    "autenticacao": "não",
+    "ultima_verificacao": "2026-10-25T02:55:03+00:00"
+  },
+  "ign_limite_municipal": {
+    "data_obtencao": "2026-10-25T02:22:12+00:00",
+    "ultima_verificacao": "2026-10-25T02:55:03+00:00",
+    "descricao": "Unidad administrativa municipal de Sevilla (nationalCode 34014141091) — INSPIRE AU",
+    "produtor": "Instituto Geográfico Nacional (IGN) / CNIG",
+    "url": "https://www.ign.es/wfs-inspire/unidades-administrativas",
+    "arquivo": "data/raw/ign_limite/ign_au_sevilla.gml",
+    "formato": "GML 3.2 (EPSG:25830)",
+    "licenca": "CC BY 4.0 (scne.es / ign.es)",
+    "sha256": "0eb8442091885fda35046008cda107c89b0dfc7aea3dd0312fd4d28c1aff34ab",
+    "tamanho_bytes": 23568,
+    "autenticacao": "não",
+    "uso": "somente comparação com o limite derivado do seccionado INE"
+  },
+  "osm_rede_caminhavel": {
+    "descricao": "Rede pedonal OpenStreetMap (OSMnx network_type='walk', simplificada, não direcionada)",
+    "produtor": "Contribuidores do OpenStreetMap, via Overpass API",
+    "url": "https://overpass-api.de/api",
+    "data_obtencao": "2026-10-25T02:25:10+00:00",
+    "timestamp_osm_base": [
+      "2026-10-25T02:24:51Z"
+    ],
+    "arquivo": "data/processed/rede_caminhavel_osm.gpkg",
+    "area": "limite municipal (seccionado INE 2024) + 1000 m",
+    "formato": "GeoPackage (EPSG:25830)",
+    "licenca": "ODbL 1.0 — © OpenStreetMap contributors",
+    "sha256": "9961b07f111e7912bbdae0345d3ef00865fa638c884b03886fb7bfb296ccd69a",
+    "tamanho_bytes": 17473536,
+    "autenticacao": "não",
+    "osmnx": "2.1.1",
+    "networkx": "3.7",
+    "n_nos": 31860,
+    "n_arestas": 47443,
+    "extensao_total_km": 3005.79,
+    "n_componentes": 232,
+    "maior_componente_nos": 30941,
+    "pct_nos_maior_componente": 97.116,
+    "componentes_10_maiores": [
+      30941,
+      75,
+      20,
+      19,
+      19,
+      18,
+      17,
+      16,
+      16,
+      15
+    ],
+    "ultima_verificacao": "2026-10-25T02:27:39+00:00"
+  },
+  "osm_barreiras": {
+    "descricao": "Feições OSM de barreira (água, cursos d'água, ferrovias, autovias/trunk) e parques",
+    "produtor": "Contribuidores do OpenStreetMap, via Overpass API (OSMnx features_from_polygon)",
+    "url": "https://overpass-api.de/api",
+    "data_obtencao": "2026-10-25T03:16:00+00:00",
+    "timestamp_osm_base": [
+      "2026-10-25T02:24:51Z",
+      "2026-10-25T03:04:34Z",
+      "2026-10-25T03:13:40Z"
+    ],
+    "tags": {
+      "natural": [
+        "water"
+      ],
+      "waterway": [
+        "riverbank",
+        "river",
+        "canal",
+        "dock"
+      ],
+      "railway": [
+        "rail",
+        "light_rail",
+        "narrow_gauge"
+      ],
+      "highway": [
+        "motorway",
+        "motorway_link",
+        "trunk",
+        "trunk_link"
+      ],
+      "leisure": [
+        "park"
+      ],
+      "landuse": [
+        "railway"
+      ]
+    },
+    "arquivo": "data/raw/osm_barreiras/osm_barreiras.gpkg",
+    "formato": "GeoPackage (EPSG:25830)",
+    "licenca": "ODbL 1.0 — © OpenStreetMap contributors",
+    "sha256": "0816682146168981a0b64103b56f176f57b04df7e90dbd54f61417145a47903b",
+    "tamanho_bytes": 978944,
+    "autenticacao": "não",
+    "poligonos": {
+      "parque": 477,
+      "agua": 180,
+      "terreno_ferroviario": 3
+    },
+    "linhas": {
+      "via_alta_capacidade": 963,
+      "ferrovia": 417,
+      "curso_agua": 45
+    },
+    "ultima_verificacao": "2026-10-25T03:16:02+00:00"
+  }
+}

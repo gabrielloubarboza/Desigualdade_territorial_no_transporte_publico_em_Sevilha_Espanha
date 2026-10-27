@@ -1,0 +1,9 @@
+indicador,valor,pob_ine
+secoes_so_tercis,25.0,34022.0
+secoes_nao_prioritaria,463.0,611511.0
+secoes_prioritaria_nos_dois,33.0,41208.0
+top10_principal_tambem_prioritarias_tercis,10.0,
+top10_principal_no_top20_tercis,10.0,
+spearman_ranking_comuns,0.9966577540106952,
+distritos_com_prioritarias_principal,9.0,
+distritos_com_prioritarias_tercis,9.0,

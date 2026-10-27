@@ -1,0 +1,78 @@
+# Configuração do projeto sevilla_oferta_bus (lida por scripts/comum.py -> carregar_config()).
+#
+# RECONSTRUÍDA em 27/10/2026: o config/config.yaml original não estava no acervo do projeto.
+# Cada valor abaixo foi recuperado de evidência registrada pela execução original, sem estimativas:
+#   [P] banco sevilla_oferta_bus, tabela prep.parametros (gravada por 04_carregar_banco.py a partir deste arquivo)
+#   [A] banco sevilla_oferta_bus, tabela analise.parametros (gravada por 07_acessibilidade.py: todas as chaves de 'acessibilidade')
+#   [H] banco sevilla_oferta_bus, tabela prep.periodos_analise
+#   [M] data/manifesto_fontes.json (URLs, arquivos, versões, md5)
+#   [D] docs/fontes.md, docs/metodologia_etapa1.md e sql/00_criar_banco.sql
+#   [C] calculado: bbox da requisição WFS registrada em [M] menos a extensão do município (= 500 m em todos os lados)
+# Validação: os testes 08, 11 e 14 do projeto foram executados com este arquivo contra o banco original (ver README).
+
+projeto:
+  municipio_ine: "41091"          # [P]
+  crs_metrico: 25830              # [P] ETRS89 / UTM 30N
+
+banco:                            # [D] sem senha: a autenticação usa pgpass ou PGPASSWORD
+  host: localhost
+  port: 5432
+  dbname: sevilla_oferta_bus
+  user: gis_portfolio
+
+gtfs:
+  url: https://files.mobilitydatabase.org/mdb-2770/mdb-2770-202609300035/mdb-2770-202609300035.zip   # [P][M]
+  md5_esperado: 25f3aba06d524efa693fcd61b8816093                                                       # [M]
+  arquivo: data/raw/gtfs_tussam/tussam_gtfs_mdb-2770-202609300035.zip                                  # [M]
+  url_produtor_nap: https://nap.transportes.gob.es/api/Fichero/download/1567                           # [M]
+  dia_referencia: "2026-10-21"    # [P] dia útil de referência
+  periodos:                       # [H]
+    manha: ["07:00:00", "09:00:00"]
+    meio_dia: ["12:00:00", "14:00:00"]
+    tarde: ["17:00:00", "19:00:00"]
+
+ine_seccionado:
+  url: https://www.ine.es/prodyser/cartografia/seccionado_2024.zip   # [M]
+  arquivo: data/raw/ine_seccionado/seccionado_2024.zip                # [M]
+  shapefile: SECC_CE_20240101.shp                                     # [M] arquivos_zip
+
+ine_populacao:
+  url: https://www.ine.es/jaxiT3/files/t/es/csv_bdsc/69258.csv                               # [M]
+  arquivo: data/raw/ine_censo_anual/ine_69258_poblacion_seccion_sexo_nacionalidad_sevilla.csv # [M]
+  ano: 2024                                                                                   # [P]
+
+ieca_grid:
+  wfs: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/grid/wfs  # [M]
+  camada: "grid:gridp_250"                                     # [M][D]
+  arquivo: data/raw/ieca_grid/ieca_gridp_250_2024_sevilla.geojson  # [M]
+  margem_bbox_m: 500                                           # [C]
+
+tussam_ide:                       # somente controle de qualidade local; redistribuição proibida (docs/licencias_datos.md)
+  paradas: https://services1.arcgis.com/hcmP7kr0Cx3AcTJk/arcgis/rest/services/TUSSAM_Paradas/FeatureServer/0  # [M]
+  linhas: https://services1.arcgis.com/hcmP7kr0Cx3AcTJk/arcgis/rest/services/TUSSAM_Lineas/FeatureServer/0    # [M]
+  item_paradas: 9a26b7b8cf594b32bd4f0c6a193fe252     # [M]
+  item_linhas: c5e6ecf63aa944c8a09eb1e65e72d8f4      # [M]
+  arquivo_paradas: data/raw/tussam_ide/tussam_paradas.geojson   # [M]
+  arquivo_linhas: data/raw/tussam_ide/tussam_lineas.geojson     # [M]
+
+ign_limite:
+  wfs: https://www.ign.es/wfs-inspire/unidades-administrativas  # [M]
+  arquivo: data/raw/ign_limite/ign_au_sevilla.gml               # [M]
+
+osm:
+  arquivo: data/processed/rede_caminhavel_osm.gpkg  # [M]
+  margem_m: 1000                                    # [M][D] "limite municipal + 1000 m"
+  network_type: walk                                # [D]
+
+acessibilidade:                   # [A] valores gravados em analise.parametros
+  limite_m: 400
+  frac_minima_parcela: 0.01
+  area_habitavel_minima: 0.1
+  raio_ligacao_origem_m: 250
+  raio_ligacao_parada_m: 50
+  raio_ligacao_secundaria_origem_m: 250
+  raio_ligacao_secundaria_parada_m: 50
+  faixa_barreira_m: 10
+  candidatos_knn: 30
+  limite_distancia_mais_proxima_m: 5000
+  tolerancia_m: 0.001

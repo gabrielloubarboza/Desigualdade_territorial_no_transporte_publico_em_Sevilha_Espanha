@@ -1,0 +1,31 @@
+# Ambiente
+.venv/
+__pycache__/
+*.pyc
+
+# Dados brutos e caches (reconstruíveis com os scripts; volumosos)
+# A camada TUSSAM da IDE Sevilla proíbe redistribuição — nunca versionar data/raw/tussam_ide/
+data/raw/**
+!data/raw/.gitkeep
+data/processed/*.gpkg
+data/processed/*.gpkg-*
+*.part
+
+# GeoPackages intermediários das etapas 2–4 (os produtos finais publicáveis estão em produtos/)
+resultados/**/*.gpkg
+resultados/**/*.gpkg-*
+
+# Manifesto e resumos pequenos SÃO versionados:
+#   data/manifesto_fontes.json, data/processed/*.json
+
+# Credenciais (nunca versionar)
+.env
+pgpass.conf
+*.pgpass
+
+# QGIS / sistema
+*.qgs~
+*.qgz~
+*.aux.xml
+.DS_Store
+Thumbs.db

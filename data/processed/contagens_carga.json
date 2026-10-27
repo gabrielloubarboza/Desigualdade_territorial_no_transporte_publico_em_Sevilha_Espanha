@@ -1,0 +1,18 @@
+{
+  "gtfs_agency": 1,
+  "gtfs_feed_info": 1,
+  "gtfs_routes": 59,
+  "gtfs_calendar": 4,
+  "gtfs_calendar_dates": 0,
+  "gtfs_stops": 1055,
+  "gtfs_trips": 27845,
+  "gtfs_stop_times": 509623,
+  "ine_secciones_2024": 521,
+  "ieca_gridp_250": 1638,
+  "tussam_paradas_ide": 2585,
+  "tussam_lineas_ide": 136,
+  "ign_limite_municipal": 1,
+  "osm_nos": 31860,
+  "osm_arestas": 47443,
+  "ine_poblacion_seccion": 24075
+}

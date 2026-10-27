@@ -1,0 +1,19 @@
+# Versões efetivamente utilizadas na Etapa 1 (Python 3.14.7, Windows 11).
+# Lista completa congelada em requirements-lock.txt.
+osmnx==2.1.1
+networkx==3.7
+geopandas==1.2.0
+shapely==2.2.0
+pyproj==3.8.0
+pyogrio==0.13.0
+pandas==3.1.0
+numpy==2.5.4
+psycopg[binary]==3.3.6
+SQLAlchemy==2.1.6
+GeoAlchemy2==0.20.0
+requests==2.34.2
+PyYAML==6.0.3
+pypdf==6.21.2
+matplotlib==3.11.2
+reportlab==5.1.0
+# Opcional, apenas para revisar páginas do PDF como imagem: pymupdf
