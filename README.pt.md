@@ -9,8 +9,8 @@ programadas por hora, sem contar duas vezes a mesma viagem.
 
 Autor: **Gabriel Barboza Lourenço** · PostgreSQL/PostGIS · Python (OSMnx, NetworkX, GeoPandas) · GTFS · QGIS/PyQGIS
 
-<p align="center"><img src="produtos/figuras/figuras_pt/mapa_prioritarias.png" width="640"
-alt="As 33 seções prioritárias por tipo de deficiência"></p>
+<p align="center"><img src="produtos/figuras/mapa_densidad.png" width="640"
+alt="Densidade populacional por seção censitária em Sevilha (INE 2024)"></p>
 
 ## Fontes
 

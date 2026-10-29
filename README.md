@@ -9,8 +9,8 @@ hour without counting the same trip twice.
 
 Author: **Gabriel Barboza Lourenço** · PostgreSQL/PostGIS · Python (OSMnx, NetworkX, GeoPandas) · GTFS · QGIS/PyQGIS
 
-<p align="center"><img src="produtos/figuras/figuras_pt/mapa_prioritarias.png" width="640"
-alt="The 33 priority census sections by deficiency type"></p>
+<p align="center"><img src="produtos/figuras/mapa_densidad.png" width="640"
+alt="Population density by census section in Seville (INE 2024)"></p>
 
 ## Data
 
